@@ -8,18 +8,18 @@
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-  <link rel="stylesheet" href="../css/animate.css">
+  <link rel="stylesheet" href="/../public/css/animate.css">
 
-  <link rel="stylesheet" href="../public/css/owl.carousel.min.css">
-  <link rel="stylesheet" href="../public/css/owl.theme.default.min.css">
-  <link rel="stylesheet" href="../public/css/magnific-popup.css">
+  <link rel="stylesheet" href="/../public/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="/../public/css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="/../public/css/magnific-popup.css">
 
 
-  <link rel="stylesheet" href="../public/css/bootstrap-datepicker.css">
-  <link rel="stylesheet" href="../public/css/jquery.timepicker.css">
+  <link rel="stylesheet" href="//../public/css/bootstrap-datepicker.css">
+  <link rel="stylesheet" href="/../public/css/jquery.timepicker.css">
 
-  <link rel="stylesheet" href="../public/css/flaticon.css">
-  <link rel="stylesheet" href="../public/css/style.css ">
+  <link rel="stylesheet" href="/../public/css/flaticon.css">
+  <link rel="stylesheet" href="/../public/css/style.css ">
 </head>
 
 <footer class="footer">
@@ -91,7 +91,9 @@
 
         <p class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
           Copyright &copy;
-          <script>document.write(new Date().getFullYear());</script> All rights reserved </i><a href="gsmicros.com.br"
+          <script>
+            document.write(new Date().getFullYear());
+          </script> All rights reserved </i><a href="gsmicros.com.br"
             target="_blank"><i>gsmicros</i></a>
           <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
         </p>
@@ -100,20 +102,20 @@
   </div>
 </footer>
 
-<script src="../public/js/jquery.min.js"></script>
-  <script src="../public/js/jquery-migrate-3.0.1.min.js"></script>
-  <script src="../public/js/popper.min.js"></script>
-  <script src="../public/js/bootstrap.min.js"></script>
-  <script src="../public/js/jquery.easing.1.3.js"></script>
-  <script src="../public/js/jquery.waypoints.min.js"></script>
-  <script src="../public/js/jquery.stellar.min.js"></script>
-  <script src="../public/js/jquery.animateNumber.min.js"></script>
-  <script src="../public/js/bootstrap-datepicker.js"></script>
-  <script src="../public/js/jquery.timepicker.min.js"></script>
-  <script src="../public/js/owl.carousel.min.js"></script>
-  <script src="../public/js/jquery.magnific-popup.min.js"></script>
-  <script src="../public/js/scrollax.min.js"></script>
-  <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-  <script src="../public/js/google-map.js"></script>
-  <script src="../public/js/main.js"></script>
+<script src="/../public/js/jquery.min.js"></script>
+<script src="/../public/js/jquery-migrate-3.0.1.min.js"></script>
+<script src="/../public/js/popper.min.js"></script>
+<script src="/../public/js/bootstrap.min.js"></script>
+<script src="/../public/js/jquery.easing.1.3.js"></script>
+<script src="/../public/js/jquery.waypoints.min.js"></script>
+<script src="/../public/js/jquery.stellar.min.js"></script>
+<script src="/../public/js/jquery.animateNumber.min.js"></script>
+<script src="/../public/js/bootstrap-datepicker.js"></script>
+<script src="/../public/js/jquery.timepicker.min.js"></script>
+<script src="/../public/js/owl.carousel.min.js"></script>
+<script src="/../public/js/jquery.magnific-popup.min.js"></script>
+<script src="/../public/js/scrollax.min.js"></script>
+<script
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+<script src="/../public/js/google-map.js"></script>
+<script src="/../public/js/main.js"></script>

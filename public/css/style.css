@@ -11597,8 +11597,10 @@ h5,
 }
 
 .social-media p a:hover {
-  background: #00bd56;
-  border-color: #00bd56;
+  /* background: #00bd56; */
+  /* border-color: #00bd56; */
+  background: #d35400;
+  border-color: #d35400;
 }
 
 .social-media p a:hover span {
@@ -11624,7 +11626,7 @@ h5,
 }
 
 .ftco-navbar-light .navbar-brand {
-  color: #c8d6e5;
+  color: #d35400;
   font-weight: 800;
   font-size: 28px;
   line-height: 1;
@@ -11658,7 +11660,7 @@ h5,
   padding-left: 18px;
   padding-right: 18px;
   font-weight: 700;
-  color: #c8d6e5;
+  color: #ecf0f1;
   position: relative;
   text-transform: uppercase;
   opacity: 1 !important;
@@ -11765,7 +11767,7 @@ h5,
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item.active>a {
-  color: #00bd56;
+  color: #f1c40f;
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item.active>a:before {

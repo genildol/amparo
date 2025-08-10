@@ -1,5 +1,5 @@
 	<!-- END nav -->
-	<div class="hero-wrap js-fullheight" style="background-image: url('images/vira-lata.jpg');"
+	<div class="hero-wrap js-fullheight" style="background-image: url('./public/images/vira-lata.jpg');"
 		data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
 		<div class="container">
@@ -13,6 +13,25 @@
 			</div>
 		</div>
 	</div>
+
+	<section class="ftco-section bg-light ftco-no-pt my-3
+ ftco-intro">
+		<div class="container-fluid px-md-5">
+			<div class="row justify-content-center pb-5 mb-3">
+				<div class="col-md-8 heading-section text-left ftco-animate">
+					<h2 class="text-center">Bem-vindo ao Amparo</h2>
+					<h5>Amparo é uma organização dedicada a resgatar e cuidar de animais abandonados, oferecendo abrigo,
+						cuidados veterinários e amor incondicional. Nossa missão é proporcionar um lar seguro e acolhedor para
+						esses animais, enquanto buscamos adoções responsáveis.</h5>
+					<h5>No Amparo, acreditamos que cada vida merece uma nova chance. Mais do que um abrigo, somos um ponto de recomeço, onde animais recebem tratamento, carinho e atenção até encontrarem um lar definitivo. Cada ajuda que recebemos se transforma em novas oportunidades e histórias de superação.</h5>
+
+					<h5>
+						🐾 <bold>Junte-se a nós nessa corrente de amor e faça parte da mudança!</bold>
+					</h5>
+				</div>
+			</div>
+		</div>
+	</section>
 
 	<section class="ftco-section bg-light ftco-no-pt ftco-intro">
 		<div class="container">
@@ -69,7 +88,7 @@
 				<div class="col-md-5 d-flex">
 					<div
 						class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-center mb-4 mb-sm-0"
-						style="background-image:url(images/about-1.jpg);">
+						style="background-image:url(./public/images/about-1.jpg);">
 					</div>
 				</div>
 				<div class="col-md-7 pl-md-5 py-md-5">
@@ -168,15 +187,15 @@
 				<div class="col-lg-6 order-md-last">
 					<div
 						class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-center mb-4 mb-sm-0"
-						style="background-image:url(images/about.jpg);">
+						style="background-image:url(./public/images/about.jpg);">
 						<a href="https://vimeo.com/45830194"
 							class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
 							<span class="fa fa-play"></span>
 						</a>
 					</div>
 					<div class="d-flex mt-3">
-						<div class="img img-2 mr-md-2" style="background-image:url(images/about-2.jpg);"></div>
-						<div class="img img-2 ml-md-2" style="background-image:url(images/about-3.jpg);"></div>
+						<div class="img img-2 mr-md-2" style="background-image:url(./public/images/about-2.jpg);"></div>
+						<div class="img img-2 ml-md-2" style="background-image:url(./public/images/about-3.jpg);"></div>
 					</div>
 				</div>
 
@@ -284,7 +303,7 @@
 		</div>
 	</section>
 
-	<section class="ftco-section testimony-section" style="background-image: url('images/bg_2.jpg');">
+	<section class="ftco-section testimony-section" style="background-image: url('./public/images/bg_2.jpg');">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row justify-content-center pb-5 mb-3">
@@ -303,7 +322,7 @@
 									<p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and
 										Consonantia, there live the blind texts.</p>
 									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
+										<div class="user-img" style="background-image: url(./public/images/person_1.jpg)"></div>
 										<div class="pl-3">
 											<p class="name">Roger Scott</p>
 											<span class="position">Marketing Manager</span>
@@ -337,7 +356,7 @@
 									<p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and
 										Consonantia, there live the blind texts.</p>
 									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_3.jpg)"></div>
+										<div class="user-img" style="background-image: url(./public/images/person_3.jpg)"></div>
 										<div class="pl-3">
 											<p class="name">Roger Scott</p>
 											<span class="position">Marketing Manager</span>
@@ -354,7 +373,7 @@
 									<p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and
 										Consonantia, there live the blind texts.</p>
 									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
+										<div class="user-img" style="background-image: url(./public/images/person_1.jpg)"></div>
 										<div class="pl-3">
 											<p class="name">Roger Scott</p>
 											<span class="position">Marketing Manager</span>
@@ -371,7 +390,7 @@
 									<p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and
 										Consonantia, there live the blind texts.</p>
 									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
+										<div class="user-img" style="background-image: url(./public/images/person_2.jpg)"></div>
 										<div class="pl-3">
 											<p class="name">Roger Scott</p>
 											<span class="position">Marketing Manager</span>
@@ -396,7 +415,7 @@
 			<div class="row">
 				<div class="col-md-4 ftco-animate">
 					<div class="block-7">
-						<div class="img" style="background-image: url(images/pricing-1.jpg);"></div>
+						<div class="img" style="background-image: url(./public/images/pricing-1.jpg);"></div>
 						<div class="text-center p-4">
 							<span class="excerpt d-block">Personal</span>
 							<span class="price"><sup>$</sup> <span class="number">49</span> <sub>/mos</sub></span>
@@ -414,7 +433,7 @@
 				</div>
 				<div class="col-md-4 ftco-animate">
 					<div class="block-7">
-						<div class="img" style="background-image: url(images/pricing-2.jpg);"></div>
+						<div class="img" style="background-image: url(./public/images/pricing-2.jpg);"></div>
 						<div class="text-center p-4">
 							<span class="excerpt d-block">Business</span>
 							<span class="price"><sup>$</sup> <span class="number">79</span> <sub>/mos</sub></span>
@@ -432,7 +451,7 @@
 				</div>
 				<div class="col-md-4 ftco-animate">
 					<div class="block-7">
-						<div class="img" style="background-image: url(images/pricing-3.jpg);"></div>
+						<div class="img" style="background-image: url(./public/images/pricing-3.jpg);"></div>
 						<div class="text-center p-4">
 							<span class="excerpt d-block">Ultimate</span>
 							<span class="price"><sup>$</sup> <span class="number">109</span> <sub>/mos</sub></span>
@@ -461,8 +480,8 @@
 			</div>
 			<div class="row">
 				<div class="col-md-4 ftco-animate">
-					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(images/gallery-1.jpg);">
-						<a href="images/gallery-1.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(./public/images/gallery-1.jpg);">
+						<a href="./public/images/gallery-1.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 							<span class="fa fa-expand"></span>
 						</a>
 						<div class="desc w-100 px-4">
@@ -474,8 +493,8 @@
 					</div>
 				</div>
 				<div class="col-md-4 ftco-animate">
-					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(images/gallery-2.jpg);">
-						<a href="images/gallery-2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(./public/images/gallery-2.jpg);">
+						<a href="./public/images/gallery-2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 							<span class="fa fa-expand"></span>
 						</a>
 						<div class="desc w-100 px-4">
@@ -487,8 +506,8 @@
 					</div>
 				</div>
 				<div class="col-md-4 ftco-animate">
-					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(images/gallery-3.jpg);">
-						<a href="images/gallery-3.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(./public/images/gallery-3.jpg);">
+						<a href="./public/images/gallery-3.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 							<span class="fa fa-expand"></span>
 						</a>
 						<div class="desc w-100 px-4">
@@ -501,8 +520,8 @@
 				</div>
 
 				<div class="col-md-4 ftco-animate">
-					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(images/gallery-4.jpg);">
-						<a href="images/gallery-4.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(./public/images/gallery-4.jpg);">
+						<a href="./public/images/gallery-4.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 							<span class="fa fa-expand"></span>
 						</a>
 						<div class="desc w-100 px-4">
@@ -514,8 +533,8 @@
 					</div>
 				</div>
 				<div class="col-md-4 ftco-animate">
-					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(images/gallery-5.jpg);">
-						<a href="images/gallery-5.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(./public/images/gallery-5.jpg);">
+						<a href="./public/images/gallery-5.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 							<span class="fa fa-expand"></span>
 						</a>
 						<div class="desc w-100 px-4">
@@ -527,8 +546,8 @@
 					</div>
 				</div>
 				<div class="col-md-4 ftco-animate">
-					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(images/gallery-6.jpg);">
-						<a href="images/gallery-6.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(./public/images/gallery-6.jpg);">
+						<a href="./public/images/gallery-6.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
 							<span class="fa fa-expand"></span>
 						</a>
 						<div class="desc w-100 px-4">
@@ -553,7 +572,7 @@
 			<div class="row d-flex">
 				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry align-self-stretch">
-						<a href="blog-single.html" class="block-20 rounded" style="background-image: url('images/image_1.jpg');">
+						<a href="blog-single.html" class="block-20 rounded" style="background-image: url('./public/images/image_1.jpg');">
 						</a>
 						<div class="text p-4">
 							<div class="meta mb-2">
@@ -568,7 +587,7 @@
 				</div>
 				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry align-self-stretch">
-						<a href="blog-single.html" class="block-20 rounded" style="background-image: url('images/image_2.jpg');">
+						<a href="blog-single.html" class="block-20 rounded" style="background-image: url('./public/images/image_2.jpg');">
 						</a>
 						<div class="text p-4">
 							<div class="meta mb-2">
@@ -583,7 +602,7 @@
 				</div>
 				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry align-self-stretch">
-						<a href="blog-single.html" class="block-20 rounded" style="background-image: url('images/image_3.jpg');">
+						<a href="blog-single.html" class="block-20 rounded" style="background-image: url('./public/images/image_3.jpg');">
 						</a>
 						<div class="text p-4">
 							<div class="meta mb-2">
@@ -601,7 +620,7 @@
 	</section>
 
 	<section class="ftco-appointment ftco-section ftco-no-pt ftco-no-pb img"
-		style="background-image: url(images/bg_3.jpg);">
+		style="background-image: url(./public/images/bg_3.jpg);">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row d-md-flex justify-content-end">
