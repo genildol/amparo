@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Navbar</title>
+  <title>Amparo – Cuidando de quem não pode pedir ajuda</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -13,16 +13,16 @@
 
   <link rel="stylesheet" href="../css/animate.css">
 
-  <link rel="stylesheet" href="../css/owl.carousel.min.css">
-  <link rel="stylesheet" href="../css/owl.theme.default.min.css">
-  <link rel="stylesheet" href="../css/magnific-popup.css">
+  <link rel="stylesheet" href="../public/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="../public/css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="../public/css/magnific-popup.css">
 
 
-  <link rel="stylesheet" href="../css/bootstrap-datepicker.css">
-  <link rel="stylesheet" href="../css/jquery.timepicker.css">
+  <link rel="stylesheet" href="../public/css/bootstrap-datepicker.css">
+  <link rel="stylesheet" href="../public/css/jquery.timepicker.css">
 
-  <link rel="stylesheet" href="../css/flaticon.css">
-  <link rel="stylesheet" href="../css/style.css ">
+  <link rel="stylesheet" href="../public/css/flaticon.css">
+  <link rel="stylesheet" href="../public/css/style.css ">
 </head>
 
 <body>
@@ -69,21 +69,20 @@
 		</div>
 	</nav>
 
-
-  <script src="../js/jquery.min.js"></script>
-  <script src="../js/jquery-migrate-3.0.1.min.js"></script>
-  <script src="../js/popper.min.js"></script>
-  <script src="../js/bootstrap.min.js"></script>
-  <script src="../js/jquery.easing.1.3.js"></script>
-  <script src="../js/jquery.waypoints.min.js"></script>
-  <script src="../js/jquery.stellar.min.js"></script>
-  <script src="./js/jquery.animateNumber.min.js"></script>
-  <script src="../js/bootstrap-datepicker.js"></script>
-  <script src="../js/jquery.timepicker.min.js"></script>
-  <script src="../js/owl.carousel.min.js"></script>
-  <script src="../js/jquery.magnific-popup.min.js"></script>
-  <script src="../js/scrollax.min.js"></script>
+  <script src="../public/js/jquery.min.js"></script>
+  <script src="../public/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="../public/js/popper.min.js"></script>
+  <script src="../public/js/bootstrap.min.js"></script>
+  <script src="../public/js/jquery.easing.1.3.js"></script>
+  <script src="../public/js/jquery.waypoints.min.js"></script>
+  <script src="../public/js/jquery.stellar.min.js"></script>
+  <script src="../public/js/jquery.animateNumber.min.js"></script>
+  <script src="../public/js/bootstrap-datepicker.js"></script>
+  <script src="../public/js/jquery.timepicker.min.js"></script>
+  <script src="../public/js/owl.carousel.min.js"></script>
+  <script src="../public/js/jquery.magnific-popup.min.js"></script>
+  <script src="../public/js/scrollax.min.js"></script>
   <script
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-  <script src="../js/google-map.js"></script>
-  <script src="../js/main.js"></script>
+  <script src="../public/js/google-map.js"></script>
+  <script src="../public/js/main.js"></script>
