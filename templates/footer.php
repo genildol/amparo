@@ -63,14 +63,14 @@
         </div>
       </div>
       <div class="col-md-6 col-lg-3 pl-lg-5 mb-4 mb-md-0">
-        <h2 class="footer-heading">Quick Links</h2>
+        <h2 class="footer-heading">Links rápidos</h2>
         <ul class="list-unstyled">
-          <li><a href="#" class="py-2 d-block">Home</a></li>
-          <li><a href="#" class="py-2 d-block">About</a></li>
-          <li><a href="#" class="py-2 d-block">Services</a></li>
-          <li><a href="#" class="py-2 d-block">Works</a></li>
-          <li><a href="#" class="py-2 d-block">Blog</a></li>
-          <li><a href="#" class="py-2 d-block">Contact</a></li>
+          <li><a href="index.php?page=home" class="py-2 d-block">Início</a></li>
+          <li><a href="index.php?page=about" class="py-2 d-block">Sobre</a></li>
+          <li><a href="#]index.php?page=services" class="py-2 d-block">Serviços</a></li>
+          <li><a href="index.php?page=donation" class="py-2 d-block">Doação</a></li>
+          <li><a href="index.php?page=blog" class="py-2 d-block">Blog</a></li>
+          <li><a href="index.php?page=contact" class="py-2 d-block">Contato</a></li>
         </ul>
       </div>
       <div class="col-md-6 col-lg-3 mb-4 mb-md-0">
