@@ -37,14 +37,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4 d-flex align-self-stretch px-4 ftco-animate">
-					<div class="d-block services active text-center">
+					<div class="d-block services text-center">
 						<div class="icon d-flex align-items-center justify-content-center">
 							<span class="flaticon-blind"></span>
 						</div>
 						<div class="media-body">
-							<h3 class="heading">Dog Walking</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-								blind texts. Separated they live in Bookmarksgrove right.</p>
+							<h3 class="heading">Paseio e Lazer </h3>
+							<p> Cuide bem de seu amigo peludo durante os passeios e momentos de lazer. Ele merece toda a atenção e carinho!</p>
 							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span
 									class="fa fa-chevron-right"></span><i class="sr-only">Read more</i></a>
 						</div>
@@ -56,9 +55,8 @@
 							<span class="flaticon-dog-eating"></span>
 						</div>
 						<div class="media-body">
-							<h3 class="heading">Pet Daycare</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-								blind texts. Separated they live in Bookmarksgrove right.</p>
+							<h3 class="heading">Alimentação</h3>
+							<p>Cuide da alimentação do seu pet com carinho e atenção. Uma dieta balanceada é essencial para a saúde e felicidade do seu amigo peludo.</p>
 							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span
 									class="fa fa-chevron-right"></span><i class="sr-only">Read more</i></a>
 						</div>
@@ -70,9 +68,8 @@
 							<span class="flaticon-grooming"></span>
 						</div>
 						<div class="media-body">
-							<h3 class="heading">Pet Grooming</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-								blind texts. Separated they live in Bookmarksgrove right.</p>
+							<h3 class="heading">Higiene e Saúde</h3>
+							<p>A higiene e saúde de seu pet são fundamentais para o seu bem-estar. Mantenha a rotina de banhos, escovação e cuidados veterinários em dia.</p>
 							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span
 									class="fa fa-chevron-right"></span><i class="sr-only">Read more</i></a>
 						</div>
@@ -93,39 +90,39 @@
 				</div>
 				<div class="col-md-7 pl-md-5 py-md-5">
 					<div class="heading-section pt-md-5">
-						<h2 class="mb-4">Why Choose Us?</h2>
+						<h2 class="mb-4">Por que adotar?</h2>
 					</div>
 					<div class="row">
 						<div class="col-md-6 services-2 w-100 d-flex">
 							<div class="icon d-flex align-items-center justify-content-center"><span
 									class="flaticon-stethoscope"></span></div>
 							<div class="text pl-3">
-								<h4>Care Advices</h4>
-								<p>Far far away, behind the word mountains, far from the countries.</p>
+								<h4>Primeiro... </h4>
+								<p> Adotar um cãozinho é um ato de amor e compaixão. Você estará dando a ele uma segunda chance de vida.</p>
 							</div>
 						</div>
 						<div class="col-md-6 services-2 w-100 d-flex">
 							<div class="icon d-flex align-items-center justify-content-center"><span
 									class="flaticon-customer-service"></span></div>
 							<div class="text pl-3">
-								<h4>Customer Supports</h4>
-								<p>Far far away, behind the word mountains, far from the countries.</p>
+								<h4>Segundo...</h4>
+								<p> O sentimento de acolhimento e amor que você proporciona ao adotar um animal é inestimável.</p>
 							</div>
 						</div>
 						<div class="col-md-6 services-2 w-100 d-flex">
 							<div class="icon d-flex align-items-center justify-content-center"><span
 									class="flaticon-emergency-call"></span></div>
 							<div class="text pl-3">
-								<h4>Emergency Services</h4>
-								<p>Far far away, behind the word mountains, far from the countries.</p>
+								<h4>Terceiro</h4>
+								<p>Você será retribuído por toda a alegria e amor que um animal pode oferecer.</p>
 							</div>
 						</div>
 						<div class="col-md-6 services-2 w-100 d-flex">
 							<div class="icon d-flex align-items-center justify-content-center"><span
 									class="flaticon-veterinarian"></span></div>
 							<div class="text pl-3">
-								<h4>Veterinary Help</h4>
-								<p>Far far away, behind the word mountains, far from the countries.</p>
+								<h4>Q mais</h4>
+								<p>Toda sua família ficará mais feliz e completa com a presença de um novo amigo peludo.</p>
 							</div>
 						</div>
 					</div>

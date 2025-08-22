@@ -59,9 +59,6 @@
 					<li class="nav-item <?php echo ($currentPage == 'home') ? 'active' : ''; ?>">
 						<a href="index.php?page=home" class="nav-link">INÍCIO</a>
 					</li>
-					<!-- <li class="nav-item <?php echo ($currentPage == 'vet') ? 'active' : ''; ?>">
-						<a href="index.php?page=vet" class="nav-link">PROFISSIONAIS</a>
-					</li> -->
 					<li class="nav-item <?php echo ($currentPage == 'services') ? 'active' : ''; ?>">
 						<a href="index.php?page=services" class="nav-link">SERVIÇOS</a>
 					</li>
@@ -84,7 +81,6 @@
 			</div>
 		</div>
 	</nav>
-
 	<script src="../public/js/jquery.min.js"></script>
 	<script src="../public/js/jquery-migrate-3.0.1.min.js"></script>
 	<script src="../public/js/popper.min.js"></script>
