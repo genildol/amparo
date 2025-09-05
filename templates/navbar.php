@@ -59,24 +59,56 @@
 					<li class="nav-item <?php echo ($currentPage == 'home') ? 'active' : ''; ?>">
 						<a href="index.php?page=home" class="nav-link">INÍCIO</a>
 					</li>
-					<li class="nav-item <?php echo ($currentPage == 'services') ? 'active' : ''; ?>">
+					<!-- <li class="nav-item <?php echo ($currentPage == 'services') ? 'active' : ''; ?>">
 						<a href="index.php?page=services" class="nav-link">SERVIÇOS</a>
-					</li>
-					<li class="nav-item <?php echo ($currentPage == 'gallery') ? 'active' : ''; ?>">
-						<a href="index.php?page=gallery" class="nav-link">GALERIA</a>
-					</li>
-					<li class="nav-item <?php echo ($currentPage == 'donation') ? 'active' : ''; ?>">
+					</li> -->
+					<div class="nav-item dropdown">
+						<a class="dropdown" class="btn btn-dark dropdown-toggle" <?php echo ($currentPage == 'testes') ? 'active' : ''; ?>">
+							<a href="index.php?page=testes" class="nav-link">TESTES</a>
+						</a>
+						<div class="dropdown-menu text-white">
+							<a class="dropdown-item" href="#">Está na Lei</a>
+							<a class="dropdown-item" href="#">Doações</a>
+							<a class="dropdown-item" href="#">Link 3</a>
+						</div>
+					</div>
+					<div class="nav-item dropdown">
+						<a class="dropdown" class="btn btn-dark dropdown-toggle" <?php echo ($currentPage == 'comoajudar') ? 'active' : ''; ?>">
+							<a href="index.php?page=comoajudar" class="nav-link">COMO AJUDAR</a>
+						</a>
+						<div class="dropdown-menu text-white">
+							<a class="dropdown-item" href="#">Doação</a>
+							<a class="dropdown-item" href="#">Voluntários</a>
+							<a class="dropdown-item" href="#">FAQ</a>
+							<a class="dropdown-item" href="#">Transparência</a>
+							<a class="dropdown-item" href="#">Link 3</a>
+						</div>
+					</div>
+					<div class="nav-item dropdown">
+						<a class="dropdown" class="btn btn-dark dropdown-toggle" <?php echo ($currentPage == 'comoajudar') ? 'active' : ''; ?>">
+							<a href="index.php?page=adote" class="nav-link">ADOTE</a>
+						</a>
+						<div class="dropdown-menu text-white">
+							<a class="dropdown-item" href="#">Doação</a>
+							<a class="dropdown-item" href="#">Voluntários</a>
+							<a class="dropdown-item" href="#">FAQ</a>
+							<a class="dropdown-item" href="#">Transparência</a>
+							<a class="dropdown-item" href="#">Link 3</a>
+						</div>
+					</div>
+
+					<!-- <li class="nav-item <?php echo ($currentPage == 'donation') ? 'active' : ''; ?>">
 						<a href="index.php?page=donation" class="nav-link">DOAÇÕES</a>
-					</li>
+					</li> -->
 					<li class="nav-item <?php echo ($currentPage == 'blog') ? 'active' : ''; ?>">
 						<a href="index.php?page=blog" class="nav-link">BLOG</a>
 					</li>
-					<li class="nav-item <?php echo ($currentPage == 'about') ? 'active' : ''; ?>">
+					<!-- <li class="nav-item <?php echo ($currentPage == 'about') ? 'active' : ''; ?>">
 						<a href="index.php?page=about" class="nav-link">SOBRE</a>
-					</li>
-					<li class="nav-item <?php echo ($currentPage == 'contact') ? 'active' : ''; ?>">
+					</li> -->
+					<!-- <li class="nav-item <?php echo ($currentPage == 'contact') ? 'active' : ''; ?>">
 						<a href="index.php?page=contact" class="nav-link">CONTATO</a>
-					</li>
+					</li> -->
 				</ul>
 			</div>
 		</div>
