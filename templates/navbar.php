@@ -60,29 +60,20 @@
 						<a href="index.php?page=home" class="nav-link">INÍCIO</a>
 					</li>
 						<div class="nav-item dropdown">
-              <a href="index.php?page=about" class="nav-link dropdown-toggle" id="igrejaDropdown" data-bs-toggle="dropdown">Sobre</a>
+              <a href="index.php?page=about" class="nav-link dropdown-toggle" id="igrejaDropdown" data-bs-toggle="dropdown">SOBRE</a>
 								<div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
 										<a href="index.php?page=transparency" class="dropdown-item">TRANSPARÊNCIA</a>
-										<a href="index.php?page=" class="dropdown-item">DOAÇÕES</a>
-										<a href="index.php?page=" class="dropdown-item">ADOTE</a>
 										<a href="index.php?page=donation" class="dropdown-item">DOAÇÕES</a>
+										<a href="index.php?page=adopt" class="dropdown-item">ADOTE</a>
+										<a href="index.php?page=services" class="dropdown-item">SERVIÇOS</a>
 								</div>
 					</div>
-					<li class="nav-item <?php echo ($currentPage == 'services') ? 'active' : ''; ?>">
-						<a href="index.php?page=services" class="nav-link">SERVIÇOS</a>
-					</li>
 					<li class="nav-item <?php echo ($currentPage == 'gallery') ? 'active' : ''; ?>">
 						<a href="index.php?page=gallery" class="nav-link">DISPONÍVEIS</a>
-					</li>
-					<li class="nav-item <?php echo ($currentPage == 'donation') ? 'active' : ''; ?>">
-						<a href="index.php?page=donation" class="nav-link">DOAÇÕES</a>
 					</li>
 					<li class="nav-item <?php echo ($currentPage == 'blog') ? 'active' : ''; ?>">
 						<a href="index.php?page=blog" class="nav-link">BLOG</a>
 					</li>
-					<!-- <li class="nav-item <?php echo ($currentPage == 'about') ? 'active' : ''; ?>">
-						<a href="index.php?page=about" class="nav-link">SOBRE</a>
-					</li> -->
 					<li class="nav-item <?php echo ($currentPage == 'contact') ? 'active' : ''; ?>">
 						<a href="index.php?page=contact" class="nav-link">CONTATO</a>
 					</li>
