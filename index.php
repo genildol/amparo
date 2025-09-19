@@ -2,8 +2,18 @@
 function loadContent()
 {
     $page = isset($_GET['page']) ? $_GET['page'] : 'home';
-    $safePage = preg_replace('/[^a-zA-Z0-9_-]/', '', $page);
+
+    // Permite letras, números, hífen, underline e barra
+    $safePage = preg_replace('/[^a-zA-Z0-9_\/-]/', '', $page);
+
+    // Caminho completo do arquivo
     $path = __DIR__ . '/pages/' . $safePage . '.php';
+
+    // Segurança extra: impede acessar "../"
+    if (strpos($safePage, '..') !== false) {
+        require_once __DIR__ . '/404.php';
+        return;
+    }
 
     if (file_exists($path)) {
         require_once $path;
@@ -12,6 +22,7 @@ function loadContent()
     }
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
