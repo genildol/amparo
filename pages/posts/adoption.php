@@ -3,35 +3,36 @@
         
         <!-- Coluna do texto -->
         <div class="col-md-8">
-            <h2 class="mb-4">Transparência: Nosso Compromisso com Você e com os Animais</h2>
+            <h2 class="mb-4">Adoção: Um Ato de Amor</h2>
             <p class="text-justify">
-                No Amparo, acreditamos que confiança se constrói com clareza, responsabilidade e respeito. Desde o início da nossa trajetória, assumimos um compromisso inegociável: ser transparentes em cada ação, em cada gasto e em cada decisão. Sabemos que toda ajuda recebida vem de corações generosos que acreditam em nossa causa, e é nossa obrigação honrar cada doação com responsabilidade e dedicação.
+                Adotar um animal é muito mais do que simplesmente levar um novo amigo para casa; é um compromisso de amor, cuidado e responsabilidade. Na Amparo, acreditamos que cada adoção é uma oportunidade de transformar vidas – tanto a do animal quanto a do adotante. Nosso processo de adoção é cuidadosamente estruturado para garantir que cada pet encontre um lar seguro, amoroso e adequado às suas necessidades.
             </p>
             <p class="text-justify">
-                Para nós, a transparência não é apenas uma prática administrativa, mas um valor essencial que guia nossa missão. Queremos que cada apoiador saiba exatamente para onde vai o recurso que confiou em nossas mãos, porque entendemos que só assim é possível manter uma relação sólida, verdadeira e duradoura.
+                Quando você escolhe adotar, está oferecendo uma segunda chance para um animal que muitas vezes já enfrentou abandono, maus-tratos ou negligência. Cada cão e gato em nosso abrigo tem uma história única, e nossa equipe dedica tempo para conhecer suas personalidades, necessidades especiais e preferências. Isso nos permite fazer combinações ideais entre os animais e os futuros tutores.
             </p>
-            <h4>Prestação de Contas Clara e Acessível</h4>
+            <h4>Processo de Adoção Responsável</h4>
             <p class="text-justify">
-                Cada real, cada quilo de ração, cada medicamento e cada item doado é registrado e destinado ao seu propósito. Mantemos um controle detalhado de todas as nossas receitas e despesas, garantindo que os recursos sejam aplicados de forma direta e eficiente no cuidado com os animais.
-            </p>
-            <p class="text-justify">
-                Publicamos regularmente relatórios financeiros e de atividades, que estão disponíveis para consulta pública. Esses documentos detalham nossas fontes de receita, como doações, eventos beneficentes e parcerias, bem como nossos principais gastos, incluindo resgates, tratamentos veterinários, alimentação e programas de adoção.
+                Nosso processo de adoção começa com uma visita ao abrigo, onde os interessados podem conhecer os animais disponíveis. Durante essa visita, nossa equipe está à disposição para fornecer informações detalhadas sobre cada pet, incluindo seu temperamento, histórico de saúde e necessidades específicas. Acreditamos que a transparência é fundamental para garantir que a adoção seja uma experiência positiva para ambas as partes.
             </p>
             <p class="text-justify">
-                <strong> Regularmente, disponibilizamos relatórios de prestação de contas que mostram:</strong>
+                Após a escolha do animal, realizamos uma entrevista com o potencial adotante para entender seu estilo de vida, rotina e expectativas. Isso nos ajuda a garantir que o animal será bem cuidado e que suas necessidades serão atendidas. Também fornecemos orientações sobre cuidados básicos, alimentação, vacinação e treinamento, para que o novo tutor esteja preparado para receber seu novo amigo.
+            </p>
+            <p class="text-justify">
+                <strong>Processo de Adoção:</strong>
                 <ul>
-                    <li>Entradas de recursos financeiros e doações materiais;</li>
-                    <li>Custos com alimentação, medicamentos e cuidados veterinários;</li>
-                    <li>Investimentos em infraestrutura do abrigo;</li>
-                    <li>Resultados obtidos em campanhas de adoção, resgate e tratamento.</li>
+                    <li>Visita ao abrigo para conhecer os animais disponíveis;</li>
+                    <li>Entrevista com o potencial adotante para entender seu estilo de vida;</li>
+                    <li>Orientações sobre cuidados básicos, alimentação, vacinação e treinamento;</li>
+                    <li>Assinatura de um termo de responsabilidade, comprometendo-se a cuidar do animal;</li>
+                    <li>Acompanhamento pós-adoção para garantir o bem-estar do animal.</li>
                     <li>Transparência em todas as nossas ações e decisões.</li>
                 </ul>
             </p>
             <h6>Transparência em Ação: Exemplos Concretos</h6>
-            <p class="text-justify">
+            <p class="text-justify ">
                 Recentemente, realizamos uma campanha de vacinação antirrábica que atendeu mais de 300 animais em situação de vulnerabilidade. Todo o processo, desde a arrecadação de fundos até a aplicação das vacinas, foi documentado e compartilhado com nossos apoiadores. Publicamos fotos, vídeos e um relatório detalhado que mostrou como cada doação foi utilizada para garantir a saúde e o bem-estar desses animais.
             </p>
-                <button class="btn btn-info btn-sm">Ver Relatório</button>
+            <a href="index.php?page=posts/adoption" class="btn btn-success btn-sm mb-2">Adote aqui</a>
 
             <p>Nosso objetivo é que qualquer pessoa, ao acessar nossos relatórios, compreenda com clareza como suas contribuições se transformam em ações concretas.</p>
             <p class="text-justify">
