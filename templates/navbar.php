@@ -69,7 +69,7 @@
 								</div>
 					</div>
 					<li class="nav-item <?php echo ($currentPage == 'gallery') ? 'active' : ''; ?>">
-						<a href="index.php?page=gallery" class="nav-link">DISPONÍVEIS</a>
+						<a href="index.php?page=available" class="nav-link">DISPONÍVEIS</a>
 					</li>
 					<li class="nav-item <?php echo ($currentPage == 'blog') ? 'active' : ''; ?>">
 						<a href="index.php?page=blog" class="nav-link">BLOG</a>

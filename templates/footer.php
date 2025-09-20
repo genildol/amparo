@@ -14,67 +14,45 @@
   <link rel="stylesheet" href="/../public/css/owl.theme.default.min.css">
   <link rel="stylesheet" href="/../public/css/magnific-popup.css">
 
-
   <link rel="stylesheet" href="//../public/css/bootstrap-datepicker.css">
   <link rel="stylesheet" href="/../public/css/jquery.timepicker.css">
 
   <link rel="stylesheet" href="/../public/css/flaticon.css">
   <link rel="stylesheet" href="/../public/css/style.css ">
 </head>
+<body>
 
 <footer class="footer">
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-lg-3 mb-4 mb-md-0">
-        <h2 class="footer-heading">Petsitting</h2>
-        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+        <h2 class="footer-heading">Sobre a Amparo</h2>
+        <p>Acompanhe nossas redes sociais</p>
         <ul class="ftco-footer-social p-0">
-          <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><span
-                class="fa fa-twitter"></span></a></li>
-          <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><span
-                class="fa fa-facebook"></span></a></li>
-          <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Instagram"><span
+
+          <li class="ftco-animate"><a href="https://api.whatsapp.com/send?phone=5587999255002" data-toggle="tooltip" data-placement="top" title="whatsapp"><span
+                class="fa fa-whatsapp"></span></a></li>
+
+          <li class="ftco-animate"><a href="https://www.instagram.com/amparouricuri/?hl=pt-br" data-toggle="tooltip" data-placement="top" title="Instagram"><span
                 class="fa fa-instagram"></span></a></li>
         </ul>
       </div>
       <div class="col-md-6 col-lg-3 mb-4 mb-md-0">
-        <h2 class="footer-heading">Latest News</h2>
-        <div class="block-21 mb-4 d-flex">
-          <a class="img mr-4 rounded" style="background-image: url(images/image_1.jpg);"></a>
-          <div class="text">
-            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
-            <div class="meta">
-              <div><a href="#"><span class="icon-calendar"></span> April 7, 2020</a></div>
-              <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-              <div><a href="#"><span class="icon-chat"></span> 19</a></div>
-            </div>
-          </div>
-        </div>
-        <div class="block-21 mb-4 d-flex">
-          <a class="img mr-4 rounded" style="background-image: url(images/image_2.jpg);"></a>
-          <div class="text">
-            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
-            <div class="meta">
-              <div><a href="#"><span class="icon-calendar"></span> April 7, 2020</a></div>
-              <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-              <div><a href="#"><span class="icon-chat"></span> 19</a></div>
-            </div>
-          </div>
-        </div>
+          <h2 class="footer-heading">Sobre a Amparo</h2>
+             <h6>Missão Um pequeno resumo da missão da ONG:</h6>
+              <p>“A Amparo resgata, cuida e busca lares amorosos para animais abandonados. Trabalhamos com dedicação, amor e transparência.”</p>
       </div>
-      <div class="col-md-6 col-lg-3 pl-lg-5 mb-4 mb-md-0">
-        <h2 class="footer-heading">Links rápidos</h2>
+      <div class="col-md-6 col-lg-3 mb-4 mb-md-0">
+        <h2 class="footer-heading">Links Úteis</h2>
         <ul class="list-unstyled">
-          <li><a href="index.php?page=home" class="py-2 d-block">Início</a></li>
-          <li><a href="index.php?page=about" class="py-2 d-block">Sobre</a></li>
-          <li><a href="#]index.php?page=services" class="py-2 d-block">Serviços</a></li>
-          <li><a href="index.php?page=donation" class="py-2 d-block">Doação</a></li>
-          <li><a href="index.php?page=blog" class="py-2 d-block">Blog</a></li>
-          <li><a href="index.php?page=contact" class="py-2 d-block">Contato</a></li>
+          <li><a href="index.php?page=blog" class="py-2 d-block">Página de Adoção</a></li>
+          <li><a href="index.php?page=about" class="py-2 d-block">Página de Voluntariado</a></li>
+          <li><a href="index.php?page=services" class="py-2 d-block">Perguntas Frequentes</a></li>
+          <li><a href="index.php?page=donation" class="py-2 d-block">Página de Doações</a></li>
         </ul>
       </div>
       <div class="col-md-6 col-lg-3 mb-4 mb-md-0">
-        <h2 class="footer-heading">Have a Questions?</h2>
+        <h2 class="footer-heading">Urgência</h2>
         <div class="block-23 mb-3">
           <ul>
             <li><span class="icon fa fa-map"></span><span class="text">203 Fake St. Mountain View, San Francisco,
