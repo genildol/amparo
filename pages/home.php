@@ -14,24 +14,7 @@
 		</div>
 	</div>
 
-	<section class="ftco-section bg-light ftco-no-pt my-3
- ftco-intro">
-		<div class="container-fluid px-md-5">
-			<div class="row justify-content-center pb-5 mb-3">
-				<div class="col-md-8 heading-section text-left ftco-animate">
-					<h2 class="text-center">Bem-vindo ao Amparo</h2>
-					<h5>Amparo é uma organização dedicada a resgatar e cuidar de animais abandonados, oferecendo abrigo,
-						cuidados veterinários e amor incondicional. Nossa missão é proporcionar um lar seguro e acolhedor para
-						esses animais, enquanto buscamos adoções responsáveis.</h5>
-					<h5>No Amparo, acreditamos que cada vida merece uma nova chance. Mais do que um abrigo, somos um ponto de recomeço, onde animais recebem tratamento, carinho e atenção até encontrarem um lar definitivo. Cada ajuda que recebemos se transforma em novas oportunidades e histórias de superação.</h5>
 
-					<h5>
-						🐾 <bold>Junte-se a nós nessa corrente de amor e faça parte da mudança!</bold>
-					</h5>
-				</div>
-			</div>
-		</div>
-	</section>
 
 	<section class="ftco-section bg-light ftco-no-pt ftco-intro">
 		<div class="container">
@@ -42,8 +25,8 @@
 							<span class="flaticon-blind"></span>
 						</div>
 						<div class="media-body">
-							<h3 class="heading">Paseio e Lazer </h3>
-							<p> Cuide bem de seu amigo peludo durante os passeios e momentos de lazer. Ele merece toda a atenção e carinho!</p>
+							<h3 class="heading">Resgate e Adoção</h3>
+							<p> Somos uma organização dedicada a resgatar cães e gatos em situação de abandono, oferecendo cuidado, tratamento e amor até que encontrem um lar definitivo.</p>
 							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span
 									class="fa fa-chevron-right"></span><i class="sr-only">Read more</i></a>
 						</div>
@@ -55,8 +38,8 @@
 							<span class="flaticon-dog-eating"></span>
 						</div>
 						<div class="media-body">
-							<h3 class="heading">Alimentação</h3>
-							<p>Cuide da alimentação do seu pet com carinho e atenção. Uma dieta balanceada é essencial para a saúde e felicidade do seu amigo peludo.</p>
+							<h3 class="heading">Alimente na rua</h3>
+							<p>Ajude a alimentar os animais de rua, proporcionando uma refeição quente e nutritiva. Sua contribuição faz a diferença!</p>
 							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span
 									class="fa fa-chevron-right"></span><i class="sr-only">Read more</i></a>
 						</div>
@@ -68,8 +51,8 @@
 							<span class="flaticon-grooming"></span>
 						</div>
 						<div class="media-body">
-							<h3 class="heading">Higiene e Saúde</h3>
-							<p>A higiene e saúde de seu pet são fundamentais para o seu bem-estar. Mantenha a rotina de banhos, escovação e cuidados veterinários em dia.</p>
+							<h3 class="heading">Denuncie</h3>
+							<p>Se você testemunhar casos de abuso ou negligência contra animais, não hesite em denunciar. Sua ação pode salvar vidas!</p>
 							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span
 									class="fa fa-chevron-right"></span><i class="sr-only">Read more</i></a>
 						</div>
@@ -78,7 +61,24 @@
 			</div>
 		</div>
 	</section>
+	<section class="ftco-section bg-light ftco-no-pt my-3  ftco-intro">
+		<div class="container-fluid px-md-5">
+			<div class="row justify-content-center pb-5 mb-3">
+				<div class="col-md-8 heading-section text-left ftco-animate">
+					<h2 class="text-center">Bem-vindo ao Amparo</h2>
+					<h5>Amparo é uma organização dedicada a resgatar e cuidar de animais abandonados, oferecendo abrigo,
+						cuidados veterinários e amor incondicional. Nossa missão é proporcionar um lar seguro e acolhedor para
+						esses animais, enquanto buscamos adoções responsáveis.</h5>
+					<br>
+					<h5>No Amparo, acreditamos que cada vida merece uma nova chance. Mais do que um abrigo, somos um ponto de recomeço, onde animais recebem tratamento, carinho e atenção até encontrarem um lar definitivo. Cada ajuda que recebemos se transforma em novas oportunidades e histórias de superação.</h5>
 
+					<h5>
+						🐾 <bold>Junte-se a nós nessa corrente de amor e faça parte da mudança!</bold>
+					</h5>
+				</div>
+			</div>
+		</div>
+	</section>
 	<section class="ftco-section ftco-no-pt ftco-no-pb">
 		<div class="container">
 			<div class="row d-flex no-gutters">
@@ -134,48 +134,73 @@
 	<section class="ftco-counter" id="section-counter">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
+				<div class="col-md-2 col-lg-2 d-flex counter-wrap ftco-animate">
 					<div class="block-18 text-center">
 						<div class="text">
-							<strong class="number" data-number="50">0</strong>
+							<strong class="number" data-number="50"></strong>
 						</div>
 						<div class="text">
-							<span>Customer</span>
+							<span>animais medicados</span>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
+
+				<div class="col-md-2 col-lg-2 d-flex justify-content-center counter-wrap ftco-animate">
 					<div class="block-18 text-center">
 						<div class="text">
-							<strong class="number" data-number="8500">0</strong>
+							<strong class="number" data-number="50"></strong>
 						</div>
 						<div class="text">
-							<span>Professionals</span>
+							<span>kg ração doada</span>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
+
+				<div class="col-md-2 col-lg-2 d-flex justify-content-center counter-wrap ftco-animate">
 					<div class="block-18 text-center">
 						<div class="text">
-							<strong class="number" data-number="20">0</strong>
+							<strong class="number" data-number="8500"></strong>
 						</div>
 						<div class="text">
-							<span>Products</span>
+							<span>animais castrados</span>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
+
+				<div class="col-md-2 col-lg-2 d-flex justify-content-center counter-wrap ftco-animate">
 					<div class="block-18 text-center">
 						<div class="text">
-							<strong class="number" data-number="50">0</strong>
+							<strong class="number" data-number="20"></strong>
 						</div>
 						<div class="text">
-							<span>Pets Hosted</span>
+							<span>vacinados</span>
 						</div>
 					</div>
 				</div>
+
+				<div class="col-md-2 col-lg-2 d-flex justify-content-center counter-wrap ftco-animate">
+					<div class="block-18 text-center">
+						<div class="text">
+							<strong class="number" data-number="50"></strong>
+						</div>
+						<div class="text">
+							<span>animais Castrados</span>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-2 col-lg-2 d-flex justify-content-center counter-wrap ftco-animate">
+					<div class="block-18 text-center">
+						<div class="text">
+							<strong class="number" data-number="100"></strong>
+						</div>
+						<div class="text">
+							<span>animais Adotados</span>
+						</div>
+					</div>
+				</div>
+
 			</div>
-		</div>
 	</section>
 
 	<section class="ftco-section bg-light ftco-faqs">
@@ -406,61 +431,38 @@
 		<div class="container">
 			<div class="row justify-content-center pb-5 mb-3">
 				<div class="col-md-7 heading-section text-center ftco-animate">
-					<h2>Affordable Packages</h2>
+					<h2>Destaque para Adoção</h2>
+					<h6>Cada adoção é um recomeço. Venha conhecer quem está esperando por você</h6>
 				</div>
 			</div>
+
 			<div class="row">
 				<div class="col-md-4 ftco-animate">
 					<div class="block-7">
 						<div class="img" style="background-image: url(./public/images/pricing-1.jpg);"></div>
 						<div class="text-center p-4">
-							<span class="excerpt d-block">Personal</span>
-							<span class="price"><sup>$</sup> <span class="number">49</span> <sub>/mos</sub></span>
-
-							<ul class="pricing-text mb-5">
-								<li><span class="fa fa-check mr-2"></span>5 Dog Walk</li>
-								<li><span class="fa fa-check mr-2"></span>3 Vet Visit</li>
-								<li><span class="fa fa-check mr-2"></span>3 Pet Spa</li>
-								<li><span class="fa fa-check mr-2"></span>Free Supports</li>
-							</ul>
-
-							<a href="#" class="btn btn-primary d-block px-2 py-3">Get Started</a>
+							<span class="excerpt d-block">Venha me conhecer...</span>
+							<a href="index.php?page=available" class="btn btn-primary d-block px-2 py-3">Saiba mais</a>
 						</div>
 					</div>
 				</div>
+
 				<div class="col-md-4 ftco-animate">
 					<div class="block-7">
 						<div class="img" style="background-image: url(./public/images/pricing-2.jpg);"></div>
 						<div class="text-center p-4">
-							<span class="excerpt d-block">Business</span>
-							<span class="price"><sup>$</sup> <span class="number">79</span> <sub>/mos</sub></span>
-
-							<ul class="pricing-text mb-5">
-								<li><span class="fa fa-check mr-2"></span>5 Dog Walk</li>
-								<li><span class="fa fa-check mr-2"></span>3 Vet Visit</li>
-								<li><span class="fa fa-check mr-2"></span>3 Pet Spa</li>
-								<li><span class="fa fa-check mr-2"></span>Free Supports</li>
-							</ul>
-
-							<a href="#" class="btn btn-primary d-block px-2 py-3">Get Started</a>
+							<span class="excerpt d-block">Fui abandonado e não tenho para onde ir</span>
+							<a href="index.php?page=available" class="btn btn-primary d-block px-2 py-3">Saiba mais</a>
 						</div>
 					</div>
 				</div>
+
 				<div class="col-md-4 ftco-animate">
 					<div class="block-7">
 						<div class="img" style="background-image: url(./public/images/pricing-3.jpg);"></div>
 						<div class="text-center p-4">
-							<span class="excerpt d-block">Ultimate</span>
-							<span class="price"><sup>$</sup> <span class="number">109</span> <sub>/mos</sub></span>
-
-							<ul class="pricing-text mb-5">
-								<li><span class="fa fa-check mr-2"></span>5 Dog Walk</li>
-								<li><span class="fa fa-check mr-2"></span>3 Vet Visit</li>
-								<li><span class="fa fa-check mr-2"></span>3 Pet Spa</li>
-								<li><span class="fa fa-check mr-2"></span>Free Supports</li>
-							</ul>
-
-							<a href="#" class="btn btn-primary d-block px-2 py-3">Get Started</a>
+							<span class="excerpt d-block">Fui maltratado e preciso de um lar</span>
+							<a href="index.php?page=available" class="btn btn-primary d-block px-2 py-3">Saiba mais</a>
 						</div>
 					</div>
 				</div>

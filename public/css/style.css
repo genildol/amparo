@@ -11584,6 +11584,7 @@ h5,
 
 .social-media {
   display: inline-block;
+  background-color: #222f3e;
 }
 
 .social-media p a {
@@ -11593,14 +11594,12 @@ h5,
 }
 
 .social-media p a span {
-  color: #fff;
+  color: #d35400;
+  font-size: 22px;
 }
 
 .social-media p a:hover {
-  /* background: #00bd56; */
-  /* border-color: #00bd56; */
-  background: #d35400;
-  border-color: #d35400;
+  border-color: #00bd56;
 }
 
 .social-media p a:hover span {
@@ -12296,9 +12295,16 @@ h5,
   color: #fff;
 }
 
+.services h3,
+.services p:hover {
+  color: #2c3e50;
+}
+
 .services:hover,
 .services.active {
-  background: #00bd56;
+  background: #feca57;
+  color: #2c3e50;
+  /* background: #00bd56; */
 }
 
 .services:hover .icon,
@@ -12313,7 +12319,8 @@ h5,
 
 .services:hover .media-body h3,
 .services.active .media-body h3 {
-  color: #fff;
+  /* color: #fff; */
+  color: #2c3e50;
 }
 
 .services:hover .btn-custom,
@@ -12626,7 +12633,7 @@ h5,
 .ftco-counter {
   overflow-x: hidden;
   position: relative;
-  padding: 4em 0;
+  padding: 2em 0;
   background: #00bd56;
 }
 

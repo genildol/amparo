@@ -1,6 +1,6 @@
 <div class="container my-5">
     <div class="row">
-        
+
         <!-- Coluna do texto -->
         <div class="col-md-8">
             <h2 class="mb-4">Transparência: Nosso Compromisso com Você e com os Animais</h2>
@@ -19,25 +19,34 @@
             </p>
             <p class="text-justify">
                 <strong> Regularmente, disponibilizamos relatórios de prestação de contas que mostram:</strong>
-                <ul>
-                    <li>Entradas de recursos financeiros e doações materiais;</li>
-                    <li>Custos com alimentação, medicamentos e cuidados veterinários;</li>
-                    <li>Investimentos em infraestrutura do abrigo;</li>
-                    <li>Resultados obtidos em campanhas de adoção, resgate e tratamento.</li>
-                    <li>Transparência em todas as nossas ações e decisões.</li>
-                </ul>
+            <ul>
+                <li>Entradas de recursos financeiros e doações materiais;</li>
+                <li>Custos com alimentação, medicamentos e cuidados veterinários;</li>
+                <li>Investimentos em infraestrutura do abrigo;</li>
+                <li>Resultados obtidos em campanhas de adoção, resgate e tratamento.</li>
+                <li>Transparência em todas as nossas ações e decisões.</li>
+            </ul>
             </p>
             <h6>Transparência em Ação: Exemplos Concretos</h6>
             <p class="text-justify">
                 Recentemente, realizamos uma campanha de vacinação antirrábica que atendeu mais de 300 animais em situação de vulnerabilidade. Todo o processo, desde a arrecadação de fundos até a aplicação das vacinas, foi documentado e compartilhado com nossos apoiadores. Publicamos fotos, vídeos e um relatório detalhado que mostrou como cada doação foi utilizada para garantir a saúde e o bem-estar desses animais.
             </p>
-                <button class="btn btn-info btn-sm">Ver Relatório</button>
+            <button class="btn btn-info btn-sm">Ver Relatório</button>
+            <div class="container mt-3">
+                <h4>Associação Mantenedora de Proteção aos Animais</h4>
+                <div class="btn" role="group" aria-label="Basic example">
+                    <a href="#" class="btn btn-info disabled">Competência</a>
+                    <a href="#" type="button" class="btn btn-info">Estatuto</a>
+                    <a href="#" type="button" class="btn btn-info">Ata</a>
+                    <a href="#" type="button" class="btn btn-info">Sony</a>
+                </div>
+            </div>
 
             <p>Nosso objetivo é que qualquer pessoa, ao acessar nossos relatórios, compreenda com clareza como suas contribuições se transformam em ações concretas.</p>
             <p class="text-justify">
                 <i>Agradecemos profundamente a cada pessoa que escolhe caminhar ao nosso lado nessa jornada.
-                Juntos, somos mais fortes e podemos fazer a diferença na vida de muitos animais que dependem
-                do nosso amor e cuidado.</i>
+                    Juntos, somos mais fortes e podemos fazer a diferença na vida de muitos animais que dependem
+                    do nosso amor e cuidado.</i>
         </div>
 
         <!-- Coluna da imagem + cards -->
