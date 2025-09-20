@@ -40,10 +40,13 @@
 					</div>
 
 					<!-- QR Code -->
-					<div class="col-md-6 text-center ftco-animate">
-						<img src="pix-qrcode.php" alt="QR Code PIX Amparo" class="img-fluid rounded shadow" style="max-width:250px;">
-						<p class="mt-2">Aponte a câmera do seu celular para doar</p>
+					<div class="container my-5 text-center">
+						<h2 class="mb-4">Ajude a Amparo</h2>
+						<!-- <p>Faça sua doação via PIX escaneando o QR Code abaixo:</p> -->
+						<img src="pix-qrcode.php" alt="QR Code PIX - Amparo" class="img-fluid shadow rounded">
+						<!-- <p class="mt-3"><em>Obrigado por apoiar nossa causa! 💚</em></p> -->
 					</div>
+
 
 				</div>
 			</div>
