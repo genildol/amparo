@@ -8,16 +8,15 @@
 </head>
 
 <body>
-  <div class="container">
-    <h1>404 - Page Not Found</h1>
-    <p>The page you are looking for does not exist.</p>
-    <p><a href="index.php">Go back to home</a></p>
+  <div class="container mt-5 text-center">
+    <h1>404 - Erro de carregamento: Página não encontrada</h1>
+    <h3>A página que você está procurando não existe.</h3>
+    <h4><a href="index.php">Voltar para a home</a></h4>
     <div class="row">
       <div class="col-md-12">
-        <h1>404 - Page Not Found</h1>
-        <p>The page you are looking for does not exist.</p>
-        <p><a href="index.php">Go back to home</a></p>
-        <h1>404 - PÁGINA NÃO ENCONTRADA</h1>
+        <h1>404 - Erro: Página não encontrada</h1>
+        <hgroup>A página que você está procurando não existe.</hgroup>
+        <p><a href="index.php">Voltar para a home</a></p>
       </div>
     </div>
 

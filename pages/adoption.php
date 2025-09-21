@@ -1,6 +1,6 @@
 <div class="container my-5">
     <div class="row">
-        
+
         <!-- Coluna do texto -->
         <div class="col-md-8">
             <h2 class="mb-4">Adoção: Um Ato de Amor</h2>
@@ -19,14 +19,14 @@
             </p>
             <p class="text-justify">
                 <strong>Processo de Adoção:</strong>
-                <ul>
-                    <li>Visita ao abrigo para conhecer os animais disponíveis;</li>
-                    <li>Entrevista com o potencial adotante para entender seu estilo de vida;</li>
-                    <li>Orientações sobre cuidados básicos, alimentação, vacinação e treinamento;</li>
-                    <li>Assinatura de um termo de responsabilidade, comprometendo-se a cuidar do animal;</li>
-                    <li>Acompanhamento pós-adoção para garantir o bem-estar do animal.</li>
-                    <li>Transparência em todas as nossas ações e decisões.</li>
-                </ul>
+            <ul>
+                <li>Visita ao abrigo para conhecer os animais disponíveis;</li>
+                <li>Entrevista com o potencial adotante para entender seu estilo de vida;</li>
+                <li>Orientações sobre cuidados básicos, alimentação, vacinação e treinamento;</li>
+                <li>Assinatura de um termo de responsabilidade, comprometendo-se a cuidar do animal;</li>
+                <li>Acompanhamento pós-adoção para garantir o bem-estar do animal.</li>
+                <li>Transparência em todas as nossas ações e decisões.</li>
+            </ul>
             </p>
             <h6>Transparência em Ação: Exemplos Concretos</h6>
             <p class="text-justify ">
@@ -37,15 +37,15 @@
             <p>Nosso objetivo é que qualquer pessoa, ao acessar nossos relatórios, compreenda com clareza como suas contribuições se transformam em ações concretas.</p>
             <p class="text-justify">
                 <i>Agradecemos profundamente a cada pessoa que escolhe caminhar ao nosso lado nessa jornada.
-                Juntos, somos mais fortes e podemos fazer a diferença na vida de muitos animais que dependem
-                do nosso amor e cuidado.</i>
+                    Juntos, somos mais fortes e podemos fazer a diferença na vida de muitos animais que dependem
+                    do nosso amor e cuidado.</i>
         </div>
 
         <!-- Coluna da imagem + cards -->
         <div class="col-md-4">
 
             <!-- Imagem principal -->
-            <img src="./public/images/naoabandone.jpg" alt="Amparo cuidando dos animais" class="img-fluid rounded shadow mb-4">
+            <img src="./public/images/adopt1.jpg" alt="Amparo cuidando dos animais" class="img-fluid rounded shadow mb-4">
 
             <!-- Cards de notícias -->
             <div class="card mb-3">
@@ -55,6 +55,7 @@
                     <a href="#" class="btn btn-primary btn-sm">Leia mais</a>
                 </div>
             </div>
+            <img src="./public/images/adopt1.jpg" alt="Amparo cuidando dos animais" class="img-fluid rounded shadow mb-4">
 
             <div class="card mb-3">
                 <div class="card-body">
@@ -63,6 +64,7 @@
                     <a href="#" class="btn btn-primary btn-sm">Leia mais</a>
                 </div>
             </div>
+            <img src="./public/images/adopt1.jpg" alt="Amparo cuidando dos animais" class="img-fluid rounded shadow mb-4">
 
             <div class="card">
                 <div class="card-body">

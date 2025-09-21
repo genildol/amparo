@@ -223,9 +223,8 @@
 
 				<div class="col-lg-6">
 					<div class="heading-section mb-5 mt-5 mt-lg-0">
-						<h2 class="mb-3">Frequently Asks Questions</h2>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-							blind texts.</p>
+						<h2 class="mb-3">Perguntas frequentes</h2>
+						<p>Esclareça suas dúvidas sobre adoção e cuidados com animais.</p>
 					</div>
 					<div id="accordion" class="myaccordion w-100" aria-multiselectable="true">
 						<div class="card">
@@ -234,20 +233,21 @@
 									<button href="#collapseOne"
 										class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link"
 										data-parent="#accordion" data-toggle="collapse" aria-expanded="true" aria-controls="collapseOne">
-										<p class="mb-0">How to train your pet dog?</p>
+										<p class="mb-0">Quem pode adotar um animal pela Amparo?</p>
 										<i class="fa" aria-hidden="true"></i>
 									</button>
 								</h2>
 							</div>
 							<div class="collapse show" id="collapseOne" role="tabpanel" aria-labelledby="headingOne">
 								<div class="card-body py-3 px-0">
-									<ol>
+									<p>Qualquer pessoa maior de 18 anos, com documento de identidade e comprovante de residência, pode se candidatar à adoção. O adotante deve estar ciente das responsabilidades de cuidar de um animal ao longo de toda a vida dele.</p>
+									<!-- <ol>
 										<li>Far far away, behind the word mountains</li>
 										<li>Consonantia, there live the blind texts</li>
 										<li>When she reached the first hills of the Italic Mountains</li>
 										<li>Bookmarksgrove, the headline of Alphabet Village</li>
 										<li>Separated they live in Bookmarksgrove right</li>
-									</ol>
+									</ol> -->
 								</div>
 							</div>
 						</div>
@@ -258,20 +258,21 @@
 									<button href="#collapseTwo"
 										class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link"
 										data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseTwo">
-										<p class="mb-0">How to manage your pets?</p>
+										<p class="mb-0">Existe algum custo para adotar?</p>
 										<i class="fa" aria-hidden="true"></i>
 									</button>
 								</h2>
 							</div>
 							<div class="collapse" id="collapseTwo" role="tabpanel" aria-labelledby="headingTwo">
 								<div class="card-body py-3 px-0">
-									<ol>
+									<p>Não. A Amparo não cobra taxas de adoção. Porém, solicitamos que o adotante esteja preparado para arcar com custos futuros como alimentação, vacinas, vermífugos e cuidados veterinários.</p>
+									<!-- <ol>
 										<li>Far far away, behind the word mountains</li>
 										<li>Consonantia, there live the blind texts</li>
 										<li>When she reached the first hills of the Italic Mountains</li>
 										<li>Bookmarksgrove, the headline of Alphabet Village</li>
 										<li>Separated they live in Bookmarksgrove right</li>
-									</ol>
+									</ol> -->
 								</div>
 							</div>
 						</div>
@@ -282,19 +283,19 @@
 									<button href="#collapseThree"
 										class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link"
 										data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseThree">
-										<p class="mb-0">What is the best grooming for your pets?</p>
+										<p class="mb-0">Como funciona o processo de adoção?</p>
 										<i class="fa" aria-hidden="true"></i>
 									</button>
 								</h2>
 							</div>
 							<div class="collapse" id="collapseThree" role="tabpanel" aria-labelledby="headingTwo">
 								<div class="card-body py-3 px-0">
+									<p>O processo envolve:</p>
 									<ol>
-										<li>Far far away, behind the word mountains</li>
-										<li>Consonantia, there live the blind texts</li>
-										<li>When she reached the first hills of the Italic Mountains</li>
-										<li>Bookmarksgrove, the headline of Alphabet Village</li>
-										<li>Separated they live in Bookmarksgrove right</li>
+										<li>Preenchimento de um formulário de interesse;</li>
+										<li>Uma breve entrevista para conhecer o perfil do adotante;</li>
+										<li>Visita ao animal disponível;</li>
+										<li>Assinatura do termo de responsabilidade.</li>
 									</ol>
 								</div>
 							</div>
@@ -306,16 +307,14 @@
 									<button href="#collapseFour"
 										class="d-flex py-3 px-4 align-items-center justify-content-between btn btn-link"
 										data-parent="#accordion" data-toggle="collapse" aria-expanded="false" aria-controls="collapseFour">
-										<p class="mb-0">What are those requirements for sitting pets?</p>
+										<p class="mb-0">Posso devolver o animal se não der certo?</p>
 										<i class="fa" aria-hidden="true"></i>
 									</button>
 								</h2>
 							</div>
 							<div class="collapse" id="collapseFour" role="tabpanel" aria-labelledby="headingTwo">
 								<div class="card-body py-3 px-0">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live
-										the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large
-										language ocean.</p>
+									<p>A adoção deve ser uma decisão consciente e responsável. Em casos extremos, pedimos que o adotante entre em contato conosco para avaliarmos juntos a melhor solução, garantindo o bem-estar do animal.</p>
 								</div>
 							</div>
 						</div>
@@ -325,7 +324,7 @@
 		</div>
 	</section>
 
-	<section class="ftco-section testimony-section" style="background-image: url('./public/images/bg_2.jpg');">
+	<section class="ftco-section testimony-section" style="background-image: url('./public/images/gtc-.jpg');">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row justify-content-center pb-5 mb-3">

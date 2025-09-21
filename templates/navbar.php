@@ -35,8 +35,8 @@
 						<p class="mb-0 d-flex">
 							<!-- <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i
 										class="sr-only">Facebook</i></span></aphp> -->
-								<a href="https://www.instagram.com/amparouricuri/?hl=pt-br" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i
-											class="sr-only">Instagram</i></span></a>
+							<a href="https://www.instagram.com/amparouricuri/?hl=pt-br" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i
+										class="sr-only">Instagram</i></span></a>
 						</p>
 					</div>
 				</div>
@@ -59,14 +59,14 @@
 					<li class="nav-item <?php echo ($currentPage == 'home') ? 'active' : ''; ?>">
 						<a href="index.php?page=home" class="nav-link">INÍCIO</a>
 					</li>
-						<div class="nav-item dropdown">
-              <a href="index.php?page=about" class="nav-link dropdown-toggle" id="igrejaDropdown" data-bs-toggle="dropdown">SOBRE</a>
-								<div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-										<a href="index.php?page=transparency" class="dropdown-item">TRANSPARÊNCIA</a>
-										<a href="index.php?page=donation" class="dropdown-item">DOAÇÕES</a>
-										<a href="index.php?page=adopt" class="dropdown-item">ADOTE</a>
-										<a href="index.php?page=services" class="dropdown-item">SERVIÇOS</a>
-								</div>
+					<div class="nav-item dropdown">
+						<a href="index.php?page=about" class="nav-link dropdown-toggle" id="igrejaDropdown" data-bs-toggle="dropdown">SOBRE</a>
+						<div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
+							<a href="index.php?page=transparency" class="dropdown-item">TRANSPARÊNCIA</a>
+							<a href="index.php?page=donation" class="dropdown-item">DOAÇÕES</a>
+							<a href="index.php?page=adoption" class="dropdown-item">ADOTE</a>
+							<a href="index.php?page=services" class="dropdown-item">SERVIÇOS</a>
+						</div>
 					</div>
 					<li class="nav-item <?php echo ($currentPage == 'gallery') ? 'active' : ''; ?>">
 						<a href="index.php?page=available" class="nav-link">DISPONÍVEIS</a>
