@@ -209,10 +209,10 @@
 				<div class="col-lg-6 order-md-last">
 					<div
 						class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-center mb-4 mb-sm-0"
-						style="background-image:url(./public/images/about.jpg);">
-						<a href="https://vimeo.com/45830194"
-							class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
-							<span class="fa fa-play"></span>
+						style="background-image:url(./public/images/adopt1.jpg);">
+						<!-- <a href="https://vimeo.com/45830194"
+							class="icon-video popup-vimeo d-flex justify-content-center align-items-center"> -->
+							<!-- <span class="fa fa-play"></span> -->
 						</a>
 					</div>
 					<div class="d-flex mt-3">
@@ -241,13 +241,6 @@
 							<div class="collapse show" id="collapseOne" role="tabpanel" aria-labelledby="headingOne">
 								<div class="card-body py-3 px-0">
 									<p>Qualquer pessoa maior de 18 anos, com documento de identidade e comprovante de residência, pode se candidatar à adoção. O adotante deve estar ciente das responsabilidades de cuidar de um animal ao longo de toda a vida dele.</p>
-									<!-- <ol>
-										<li>Far far away, behind the word mountains</li>
-										<li>Consonantia, there live the blind texts</li>
-										<li>When she reached the first hills of the Italic Mountains</li>
-										<li>Bookmarksgrove, the headline of Alphabet Village</li>
-										<li>Separated they live in Bookmarksgrove right</li>
-									</ol> -->
 								</div>
 							</div>
 						</div>
@@ -266,13 +259,6 @@
 							<div class="collapse" id="collapseTwo" role="tabpanel" aria-labelledby="headingTwo">
 								<div class="card-body py-3 px-0">
 									<p>Não. A Amparo não cobra taxas de adoção. Porém, solicitamos que o adotante esteja preparado para arcar com custos futuros como alimentação, vacinas, vermífugos e cuidados veterinários.</p>
-									<!-- <ol>
-										<li>Far far away, behind the word mountains</li>
-										<li>Consonantia, there live the blind texts</li>
-										<li>When she reached the first hills of the Italic Mountains</li>
-										<li>Bookmarksgrove, the headline of Alphabet Village</li>
-										<li>Separated they live in Bookmarksgrove right</li>
-									</ol> -->
 								</div>
 							</div>
 						</div>
@@ -300,7 +286,6 @@
 								</div>
 							</div>
 						</div>
-
 						<div class="card">
 							<div class="card-header p-0" id="headingFour" role="tab">
 								<h2 class="mb-0">
@@ -324,7 +309,7 @@
 		</div>
 	</section>
 
-	<section class="ftco-section testimony-section" style="background-image: url('./public/images/adopt2.jpg');">
+	<section class="ftco-section testimony-section" style="background-image: url('./public/images/gtc-1.jpg');">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row justify-content-center pb-5 mb-3">
@@ -516,48 +501,6 @@
 						</div>
 					</div>
 				</div>
-
-				<div class="col-md-4 ftco-animate">
-					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(./public/images/gallery-4.jpg);">
-						<a href="./public/images/gallery-4.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-							<span class="fa fa-expand"></span>
-						</a>
-						<div class="desc w-100 px-4">
-							<div class="text w-100 mb-3">
-								<span>Cat</span>
-								<h2><a href="work-single.html">British Shorthair</a></h2>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 ftco-animate">
-					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(./public/images/gallery-5.jpg);">
-						<a href="./public/images/gallery-5.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-							<span class="fa fa-expand"></span>
-						</a>
-						<div class="desc w-100 px-4">
-							<div class="text w-100 mb-3">
-								<span>Dog</span>
-								<h2><a href="work-single.html">Beagle</a></h2>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 ftco-animate">
-					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(./public/images/gallery-6.jpg);">
-						<a href="./public/images/gallery-6.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-							<span class="fa fa-expand"></span>
-						</a>
-						<div class="desc w-100 px-4">
-							<div class="text w-100 mb-3">
-								<span>Dog</span>
-								<h2><a href="work-single.html">Pug</a></h2>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
 	</section>
 
 	<section class="ftco-section bg-light">
@@ -612,75 +555,6 @@
 							</h3>
 						</div>
 					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<section class="ftco-appointment ftco-section ftco-no-pt ftco-no-pb img"
-		style="background-image: url(./public/images/bg_3.jpg);">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row d-md-flex justify-content-end">
-				<div class="col-md-12 col-lg-6 half p-3 py-5 pl-lg-5 ftco-animate">
-					<h2 class="mb-4">Free Consultation</h2>
-					<form action="#" class="appointment">
-						<div class="row">
-							<div class="col-md-12">
-								<div class="form-group">
-									<div class="form-field">
-										<div class="select-wrap">
-											<div class="icon"><span class="fa fa-chevron-down"></span></div>
-											<select name="" id="" class="form-control">
-												<option value="">Select services</option>
-												<option value="">Cat Sitting</option>
-												<option value="">Dog Walk</option>
-												<option value="">Pet Spa</option>
-												<option value="">Pet Grooming</option>
-												<option value="">Pet Daycare</option>
-											</select>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-6">
-								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Your Name">
-								</div>
-							</div>
-							<div class="col-md-6">
-								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Vehicle number">
-								</div>
-							</div>
-							<div class="col-md-6">
-								<div class="form-group">
-									<div class="input-wrap">
-										<div class="icon"><span class="fa fa-calendar"></span></div>
-										<input type="text" class="form-control appointment_date" placeholder="Date">
-									</div>
-								</div>
-							</div>
-							<div class="col-md-6">
-								<div class="form-group">
-									<div class="input-wrap">
-										<div class="icon"><span class="fa fa-clock-o"></span></div>
-										<input type="text" class="form-control appointment_time" placeholder="Time">
-									</div>
-								</div>
-							</div>
-							<div class="col-md-12">
-								<div class="form-group">
-									<textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
-								</div>
-							</div>
-							<div class="col-md-12">
-								<div class="form-group">
-									<input type="submit" value="Send message" class="btn btn-primary py-3 px-4">
-								</div>
-							</div>
-						</div>
-					</form>
 				</div>
 			</div>
 		</div>

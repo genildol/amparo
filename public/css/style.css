@@ -11895,8 +11895,8 @@ h5,
 }
 
 .hero-wrap.hero-wrap-2 .overlay {
-  opacity: .5;
-  background: #207dff;
+  opacity: .7;
+  background: #34495e !important;
   background: -moz-linear-gradient(45deg, #207dff 0%, #00bd55 100%);
   background: -webkit-gradient(left bottom, right top, color-stop(0%, #207dff), color-stop(100%, #00bd55));
   background: -webkit-linear-gradient(45deg, #207dff 0%, #00bd55 100%);
