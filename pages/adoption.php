@@ -32,7 +32,7 @@
             <p class="text-justify ">
                 Recentemente, realizamos uma campanha de vacinação antirrábica que atendeu mais de 300 animais em situação de vulnerabilidade. Todo o processo, desde a arrecadação de fundos até a aplicação das vacinas, foi documentado e compartilhado com nossos apoiadores. Publicamos fotos, vídeos e um relatório detalhado que mostrou como cada doação foi utilizada para garantir a saúde e o bem-estar desses animais.
             </p>
-            <a href="index.php?page=posts/adoption" class="btn btn-success btn-sm mb-2">Adote aqui</a>
+            <a href="index.php?page=available" class="btn btn-success btn-sm mb-2">Adote aqui</a>
 
             <p>Nosso objetivo é que qualquer pessoa, ao acessar nossos relatórios, compreenda com clareza como suas contribuições se transformam em ações concretas.</p>
             <p class="text-justify">

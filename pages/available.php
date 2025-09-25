@@ -4,8 +4,8 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-end">
           <div class="col-md-9 ftco-animate pb-5">
-            <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.php?page=home">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Gallery <i class="ion-ios-arrow-forward"></i></span></p>
-            <h1 class="mb-0 bread">Disponíveis para Adoção</h1>
+            <p class="breadcrumbs mb-2"><span class="mr-2"><a href="index.php?page=home">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Galeria de animais disponíveis <i class="ion-ios-arrow-forward"></i></span></p>
+            <h1 class="mb-0 bread">Animais disponíveis para Adoção</h1>
           </div>
         </div>
       </div>
@@ -134,16 +134,18 @@
             </div>
           </div>
         </div>
+          <p> Entre em contato conosco e saiba mais sobre nossos animais disponíveis para adoção.</p>
+          <!-- <section class="ftco-section ftco-no-pt ftco-no-pb"><br> -->
+        <p><a href="index.php?page=contact" class="btn btn-primary mr-md-4 py-3 px-4">Fale conosco <span
+								class="ion-ios-arrow-forward"></span></a></p>
+          
         <div class="row mt-5">
           <div class="col text-center">
             <div class="block-27">
               <ul>
                 <li><a href="#">&lt;</a></li>
                 <li class="active"><span>1</span></li>
-                <li><a href="#">2</a></li>
-                <li><a href="#">3</a></li>
-                <li><a href="#">4</a></li>
-                <li><a href="#">5</a></li>
+                <!-- <li><a href="#">2</a></li> -->
                 <li><a href="#">&gt;</a></li>
               </ul>
             </div>

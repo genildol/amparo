@@ -65,7 +65,7 @@
 							<a href="index.php?page=transparency" class="dropdown-item">TRANSPARÊNCIA</a>
 							<a href="index.php?page=donation" class="dropdown-item">DOAÇÕES</a>
 							<a href="index.php?page=adoption" class="dropdown-item">ADOTE</a>
-							<a href="index.php?page=services" class="dropdown-item">SERVIÇOS</a>
+							<a href="index.php?page=staytuned" class="dropdown-item">FIQUE ATENTO</a>
 						</div>
 					</div>
 					<li class="nav-item <?php echo ($currentPage == 'gallery') ? 'active' : ''; ?>">

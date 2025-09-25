@@ -27,8 +27,8 @@
 						<div class="media-body">
 							<h3 class="heading">Resgate e Adoção</h3>
 							<p> Somos uma organização dedicada a resgatar cães e gatos em situação de abandono, oferecendo cuidado, tratamento e amor até que encontrem um lar definitivo.</p>
-							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span
-									class="fa fa-chevron-right"></span><i class="sr-only">Read more</i></a>
+							<!-- <a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span
+									class="fa fa-chevron-right"></span><i class="sr-only">Read more</i></a> -->
 						</div>
 					</div>
 				</div>
@@ -40,8 +40,8 @@
 						<div class="media-body">
 							<h3 class="heading">Alimente na rua</h3>
 							<p>Ajude a alimentar os animais de rua, proporcionando uma refeição quente e nutritiva. Sua contribuição faz a diferença!</p>
-							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span
-									class="fa fa-chevron-right"></span><i class="sr-only">Read more</i></a>
+							<!-- <a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span
+									class="fa fa-chevron-right"></span><i class="sr-only">Read more</i></a> -->
 						</div>
 					</div>
 				</div>
@@ -53,8 +53,8 @@
 						<div class="media-body">
 							<h3 class="heading">Denuncie</h3>
 							<p>Se você testemunhar casos de abuso ou negligência contra animais, não hesite em denunciar. Sua ação pode salvar vidas!</p>
-							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span
-									class="fa fa-chevron-right"></span><i class="sr-only">Read more</i></a>
+							<!-- <a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span
+									class="fa fa-chevron-right"></span><i class="sr-only">Read more</i></a> -->
 						</div>
 					</div>
 				</div>
@@ -66,15 +66,17 @@
 			<div class="row justify-content-center pb-5 mb-3">
 				<div class="col-md-8 heading-section text-left ftco-animate">
 					<h2 class="text-center">Bem-vindo ao Amparo</h2>
-					<h5>Amparo é uma organização dedicada a resgatar e cuidar de animais abandonados, oferecendo abrigo,
+					<p class="text-justify">
+            A Amparo – Associação de Proteção aos Animais de Rua de Ouricuri nasceu com o propósito de dar voz e cuidado àqueles que não podem pedir ajuda: cães e gatos abandonados. Nosso compromisso é oferecer abrigo, alimentação, cuidados veterinários e, principalmente, uma nova chance de vida para os animais em situação de vulnerabilidade.
+            </p>
+						<p class="text-justify">
+             Amparo é uma organização dedicada a resgatar e cuidar de animais abandonados, oferecendo abrigo,
 						cuidados veterinários e amor incondicional. Nossa missão é proporcionar um lar seguro e acolhedor para
-						esses animais, enquanto buscamos adoções responsáveis.</h5>
-					<br>
-					<h5>No Amparo, acreditamos que cada vida merece uma nova chance. Mais do que um abrigo, somos um ponto de recomeço, onde animais recebem tratamento, carinho e atenção até encontrarem um lar definitivo. Cada ajuda que recebemos se transforma em novas oportunidades e histórias de superação.</h5>
-
-					<h5>
-						🐾 <bold>Junte-se a nós nessa corrente de amor e faça parte da mudança!</bold>
-					</h5>
+						esses animais, enquanto buscamos adoções responsáveis.
+            </p>
+					<h6 class="text-center">
+						<strong>Junte-se a nós nessa corrente de amor e faça parte da mudança!</strong>
+					</h6>
 				</div>
 			</div>
 		</div>
@@ -216,7 +218,7 @@
 						</a>
 					</div>
 					<div class="d-flex mt-3">
-						<div class="img img-2 mr-md-2" style="background-image:url(./public/images/about-2.jpg);"></div>
+						<div class="img img-2 mr-md-2" style="background-image:url(./public/images/adopt2.webp);"></div>
 						<div class="img img-2 ml-md-2" style="background-image:url(./public/images/about-3.jpg);"></div>
 					</div>
 				</div>
@@ -470,7 +472,7 @@
 						<div class="desc w-100 px-4">
 							<div class="text w-100 mb-3">
 								<span>Cat</span>
-								<h2><a href="work-single.html">Persian Cat</a></h2>
+								<h2><a href="index.php?page=available">Persian Cat</a></h2>
 							</div>
 						</div>
 					</div>
@@ -483,7 +485,7 @@
 						<div class="desc w-100 px-4">
 							<div class="text w-100 mb-3">
 								<span>Dog</span>
-								<h2><a href="work-single.html">Pomeranian</a></h2>
+								<h2><a href="index.php?page=available">Pomeranian</a></h2>
 							</div>
 						</div>
 					</div>
@@ -496,7 +498,7 @@
 						<div class="desc w-100 px-4">
 							<div class="text w-100 mb-3">
 								<span>Cat</span>
-								<h2><a href="work-single.html">Sphynx Cat</a></h2>
+								<h2><a href="index.php?page=available">Sphynx Cat</a></h2>
 							</div>
 						</div>
 					</div>

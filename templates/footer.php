@@ -46,7 +46,7 @@
         <div class="col-md-6 col-lg-3 mb-4 mb-md-0">
           <h2 class="footer-heading">Links Úteis</h2>
           <ul class="list-unstyled">
-            <li><a href="index.php?page=posts/adoption" class="py-2 d-block">Página de Adoção</a></li>
+            <li><a href="index.php?page=adoption" class="py-2 d-block">Página de Adoção</a></li>
             <li><a href="index.php?page=posts/volunteers" class="py-2 d-block">Página de Voluntariado</a></li>
             <li><a href="index.php?page=questions" class="py-2 d-block">Perguntas Frequentes</a></li>
             <li><a href="index.php?page=donation" class="py-2 d-block">Página de Doações</a></li>
