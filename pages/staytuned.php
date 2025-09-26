@@ -74,7 +74,8 @@
           <div class="col-md-4 d-flex align-self-stretch px-4 ftco-animate">
             <div class="d-block services text-center">
               <div class="icon d-flex align-items-center justify-content-center">
-                <span class="flaticon-careful"></span>
+                <span class="flaticon-bandage"></span>
+                <i class="fi fi-ts-bandage-wound"></i>
               </div>
               <div class="media-body p-4">
                 <h3 class="heading">Imobilize o animal com cuidado</h3>
