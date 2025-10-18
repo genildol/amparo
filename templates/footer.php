@@ -5,6 +5,8 @@
 
   <link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800&display=swap"
     rel="stylesheet">
+  <!-- Modal -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -80,6 +82,10 @@
       </div>
     </div>
   </footer>
+ <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.6.0/js/bootstrap.min.js"></script>
+
 
   <script src="/../public/js/jquery.min.js"></script>
   <script src="/../public/js/jquery-migrate-3.0.1.min.js"></script>
@@ -94,7 +100,6 @@
   <script src="/../public/js/owl.carousel.min.js"></script>
   <script src="/../public/js/jquery.magnific-popup.min.js"></script>
   <script src="/../public/js/scrollax.min.js"></script>
-  <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="/../public/js/google-map.js"></script>
   <script src="/../public/js/main.js"></script>

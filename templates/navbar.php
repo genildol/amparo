@@ -9,6 +9,8 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 	<link rel="stylesheet" href="/../public/css/animate.css">
+	<link rel="stylesheet" href="/../public/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/../public/css/bootstrap.css">
 
 	<link rel="stylesheet" href="/../public/css/owl.carousel.min.css">
 	<link rel="stylesheet" href="/../public/css/owl.theme.default.min.css">
@@ -18,7 +20,7 @@
 	<link rel="stylesheet" href="/../public/css/jquery.timepicker.css">
 	<link rel="stylesheet" href="/../public/css/flaticon.css">
 	<link rel="stylesheet" href="/../public/css/style.css ">
-	<link rel="stylesheet" href="/./public/css/style.css">
+	<link rel="stylesheet" href="/../public/css/style.css">
 </head>
 
 <body>
@@ -81,6 +83,10 @@
 			</div>
 		</div>
 	</nav>
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.6.0/js/bootstrap.min.js"></script>
+
 	<script src="../public/js/jquery.min.js"></script>
 	<script src="../public/js/jquery-migrate-3.0.1.min.js"></script>
 	<script src="../public/js/popper.min.js"></script>
@@ -98,3 +104,5 @@
 		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
 	<script src="../public/js/google-map.js"></script>
 	<script src="../public/js/main.js"></script>
+	<script src="../node_modules/jquery/dist/jquery.min.js"></script>
+	<script src="../public/js/bootstrap.bundle.min.js"></script>
