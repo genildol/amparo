@@ -74,7 +74,7 @@
             Copyright &copy;
             <script>
               document.write(new Date().getFullYear());
-            </script> Todos os direitos reservados </i><a href="gsmicros.com.br"
+            </script> Todos os direitos reservados </i><a href="https://www.gsmicros.com.br"
               target="_blank"><i>gsmicros</i></a>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
           </p>
@@ -82,10 +82,6 @@
       </div>
     </div>
   </footer>
- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.6.0/js/bootstrap.min.js"></script>
-
 
   <script src="/../public/js/jquery.min.js"></script>
   <script src="/../public/js/jquery-migrate-3.0.1.min.js"></script>

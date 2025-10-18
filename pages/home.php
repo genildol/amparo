@@ -13,9 +13,7 @@
 			</div>
 		</div>
 	</div>
-
-
-
+	<!-- CARD INICIAL INFORMATIVOS -->
 	<section class="ftco-section bg-light ftco-no-pt ftco-intro">
 		<div class="container">
 			<div class="row">
@@ -40,8 +38,6 @@
 						<div class="media-body">
 							<h3 class="heading">Alimente na rua</h3>
 							<p>Ajude a alimentar os animais de rua, proporcionando uma refeição quente e nutritiva. Sua contribuição faz a diferença!</p>
-							<!-- <a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span
-									class="fa fa-chevron-right"></span><i class="sr-only">Read more</i></a> -->
 						</div>
 					</div>
 				</div>
@@ -53,27 +49,26 @@
 						<div class="media-body">
 							<h3 class="heading">Denuncie</h3>
 							<p>Se você testemunhar casos de abuso ou negligência contra animais, não hesite em denunciar. Sua ação pode salvar vidas!</p>
-							<!-- <a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span
-									class="fa fa-chevron-right"></span><i class="sr-only">Read more</i></a> -->
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
+	<!-- SOBRE A AMPARO - INFORMAÇÕES -->
 	<section class="ftco-section bg-light ftco-no-pt my-3  ftco-intro">
 		<div class="container-fluid px-md-5">
 			<div class="row justify-content-center pb-5 mb-3">
 				<div class="col-md-8 heading-section text-left ftco-animate">
 					<h2 class="text-center">Bem-vindo ao Amparo</h2>
 					<p class="text-justify">
-            A Amparo – Associação de Proteção aos Animais de Rua de Ouricuri nasceu com o propósito de dar voz e cuidado àqueles que não podem pedir ajuda: cães e gatos abandonados. Nosso compromisso é oferecer abrigo, alimentação, cuidados veterinários e, principalmente, uma nova chance de vida para os animais em situação de vulnerabilidade.
-            </p>
-						<p class="text-justify">
-             Amparo é uma organização dedicada a resgatar e cuidar de animais abandonados, oferecendo abrigo,
+						A Amparo – Associação de Proteção aos Animais de Rua de Ouricuri nasceu com o propósito de dar voz e cuidado àqueles que não podem pedir ajuda: cães e gatos abandonados. Nosso compromisso é oferecer abrigo, alimentação, cuidados veterinários e, principalmente, uma nova chance de vida para os animais em situação de vulnerabilidade.
+					</p>
+					<p class="text-justify">
+						Amparo é uma organização dedicada a resgatar e cuidar de animais abandonados, oferecendo abrigo,
 						cuidados veterinários e amor incondicional. Nossa missão é proporcionar um lar seguro e acolhedor para
 						esses animais, enquanto buscamos adoções responsáveis.
-            </p>
+					</p>
 					<h6 class="text-center">
 						<strong>Junte-se a nós nessa corrente de amor e faça parte da mudança!</strong>
 					</h6>
@@ -81,6 +76,7 @@
 			</div>
 		</div>
 	</section>
+	<!-- POR QUE ADOTAR? - INFORMAÇÕES -->
 	<section class="ftco-section ftco-no-pt ftco-no-pb">
 		<div class="container">
 			<div class="row d-flex no-gutters">
@@ -132,7 +128,7 @@
 			</div>
 		</div>
 	</section>
-
+	<!-- COUNTER - INFORMAÇÕES - NUMEROS SOBRE ANIMAIS -->
 	<section class="ftco-counter" id="section-counter">
 		<div class="container">
 			<div class="row">
@@ -146,7 +142,6 @@
 						</div>
 					</div>
 				</div>
-
 				<div class="col-md-2 col-lg-2 d-flex justify-content-center counter-wrap ftco-animate">
 					<div class="block-18 text-center">
 						<div class="text">
@@ -157,7 +152,6 @@
 						</div>
 					</div>
 				</div>
-
 				<div class="col-md-2 col-lg-2 d-flex justify-content-center counter-wrap ftco-animate">
 					<div class="block-18 text-center">
 						<div class="text">
@@ -168,7 +162,6 @@
 						</div>
 					</div>
 				</div>
-
 				<div class="col-md-2 col-lg-2 d-flex justify-content-center counter-wrap ftco-animate">
 					<div class="block-18 text-center">
 						<div class="text">
@@ -179,7 +172,6 @@
 						</div>
 					</div>
 				</div>
-
 				<div class="col-md-2 col-lg-2 d-flex justify-content-center counter-wrap ftco-animate">
 					<div class="block-18 text-center">
 						<div class="text">
@@ -190,21 +182,19 @@
 						</div>
 					</div>
 				</div>
-
 				<div class="col-md-2 col-lg-2 d-flex justify-content-center counter-wrap ftco-animate">
 					<div class="block-18 text-center">
 						<div class="text">
-							<strong class="number" data-number="100"></strong>
+							<strong class="number" data-number="546"></strong>
 						</div>
 						<div class="text">
-							<span>animais Adotados</span>
+							<span>Animais Adotados</span>
 						</div>
 					</div>
 				</div>
-
 			</div>
 	</section>
-
+	<!-- PERGUNTAS FREQUENTES - INFORMAÇÕES -->
 	<section class="ftco-section bg-light ftco-faqs">
 		<div class="container">
 			<div class="row">
@@ -213,8 +203,8 @@
 						class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-center mb-4 mb-sm-0"
 						style="background-image:url(./public/images/adopt1.jpg);">
 						<!-- <a href="https://vimeo.com/45830194"
-							class="icon-video popup-vimeo d-flex justify-content-center align-items-center"> -->
-							<!-- <span class="fa fa-play"></span> -->
+							class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
+							<span class="fa fa-play"></span> -->
 						</a>
 					</div>
 					<div class="d-flex mt-3">
@@ -222,7 +212,6 @@
 						<div class="img img-2 ml-md-2" style="background-image:url(./public/images/about-3.jpg);"></div>
 					</div>
 				</div>
-
 				<div class="col-lg-6">
 					<div class="heading-section mb-5 mt-5 mt-lg-0">
 						<h2 class="mb-3">Perguntas frequentes</h2>
@@ -319,192 +308,100 @@
 					<h2>Nosos pets já adotados</h2>
 				</div>
 			</div>
+
 			<div class="row ftco-animate">
 				<div class="col-md-12">
 					<div class="carousel-testimony owl-carousel ftco-owl">
+
 						<div class="item">
-							<div class="testimony-wrap py-4">
-								<div class="icon d-flex align-items-center justify-content-center"><span
-										class="fa fa-quote-left"></span></div>
-								<div class="text">
-									<p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and
-										Consonantia, there live the blind texts.</p>
-									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(./public/images/person_1.jpg)"></div>
-										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
-										</div>
-									</div>
+							<div class="testimony-wrap py-2">
+								<div class="block-7">
+									<div class="img" style="background-image: url(./public/images/pricing-1.jpg);"></div>
+									<p class="name">Scott</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="testimony-wrap py-2">
+								<div class="block-7">
+									<div class="img" style="background-image: url(./public/images/pricing-1.jpg);"></div>
+									<p class="name">Roger</p>
 								</div>
 							</div>
 						</div>
 						<div class="item">
-							<div class="testimony-wrap py-4">
-								<div class="icon d-flex align-items-center justify-content-center"><span
-										class="fa fa-quote-left"></span></div>
-								<div class="text">
-									<p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and
-										Consonantia, there live the blind texts.</p>
-									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
-										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
-										</div>
-									</div>
+							<div class="testimony-wrap py-2">
+								<div class="block-7">
+									<div class="img" style="background-image: url(./public/images/pricing-1.jpg);"></div>
+									<p class="name">Teste</p>
 								</div>
 							</div>
 						</div>
 						<div class="item">
-							<div class="testimony-wrap py-4">
-								<div class="icon d-flex align-items-center justify-content-center"><span
-										class="fa fa-quote-left"></span></div>
-								<div class="text">
-									<p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and
-										Consonantia, there live the blind texts.</p>
-									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(./public/images/person_3.jpg)"></div>
-										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
-										</div>
-									</div>
+							<div class="testimony-wrap py-2">
+								<div class="block-7">
+									<div class="img" style="background-image: url(./public/images/pricing-1.jpg);"></div>
+									<p class="name">Roger</p>
 								</div>
 							</div>
 						</div>
 						<div class="item">
-							<div class="testimony-wrap py-4">
-								<div class="icon d-flex align-items-center justify-content-center"><span
-										class="fa fa-quote-left"></span></div>
-								<div class="text">
-									<p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and
-										Consonantia, there live the blind texts.</p>
-									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(./public/images/person_1.jpg)"></div>
-										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
-										</div>
-									</div>
+							<div class="testimony-wrap py-2">
+								<div class="block-7">
+									<div class="img" style="background-image: url(./public/images/pricing-1.jpg);"></div>
+									<p class="name">Roger</p>
 								</div>
 							</div>
 						</div>
-						<div class="item">
-							<div class="testimony-wrap py-4">
-								<div class="icon d-flex align-items-center justify-content-center"><span
-										class="fa fa-quote-left"></span></div>
-								<div class="text">
-									<p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and
-										Consonantia, there live the blind texts.</p>
-									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(./public/images/person_2.jpg)"></div>
-										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
+
 					</div>
 				</div>
 			</div>
 		</div>
+		</div>
 	</section>
-
+	<!-- SESSION DESTAQUES PARA ADOÇÃO - -->
 	<section class="ftco-section bg-light">
 		<div class="container">
 			<div class="row justify-content-center pb-5 mb-3">
 				<div class="col-md-7 heading-section text-center ftco-animate">
-					<h2>Destaque para Adoção</h2>
-					<h6>Cada adoção é um recomeço. Venha conhecer quem está esperando por você</h6>
+					<h2> Destaque para Adoção </h2>
+					<h6>Cada adoção é um recomeço, venha conhecer aqueles que precisam de um cuidado especial.</h6>
 				</div>
 			</div>
-
 			<div class="row">
 				<div class="col-md-4 ftco-animate">
 					<div class="block-7">
 						<div class="img" style="background-image: url(./public/images/pricing-1.jpg);"></div>
 						<div class="text-center p-4">
 							<span class="excerpt d-block">Venha me conhecer...</span>
-							<a href="index.php?page=available" class="btn btn-primary d-block px-2 py-3">Saiba mais</a>
+							<a href="index.php?page=available/available" class="btn btn-primary d-block px-2 py-3">Saiba mais</a>
 						</div>
 					</div>
 				</div>
-
 				<div class="col-md-4 ftco-animate">
 					<div class="block-7">
 						<div class="img" style="background-image: url(./public/images/pricing-2.jpg);"></div>
 						<div class="text-center p-4">
 							<span class="excerpt d-block">Fui abandonado e não tenho para onde ir</span>
-							<a href="index.php?page=available" class="btn btn-primary d-block px-2 py-3">Saiba mais</a>
+							<a href="index.php?page=available/available" class="btn btn-primary d-block px-2 py-3">Saiba mais</a>
 						</div>
 					</div>
 				</div>
-
 				<div class="col-md-4 ftco-animate">
 					<div class="block-7">
 						<div class="img" style="background-image: url(./public/images/pricing-3.jpg);"></div>
 						<div class="text-center p-4">
 							<span class="excerpt d-block">Fui maltratado e preciso de um lar</span>
-							<a href="index.php?page=available" class="btn btn-primary d-block px-2 py-3">Saiba mais</a>
+							<a href="index.php?page=available/available" class="btn btn-primary d-block px-2 py-3">Saiba mais</a>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-
-	<section class="ftco-section">
-		<div class="container">
-			<div class="row justify-content-center pb-5 mb-3">
-				<div class="col-md-7 heading-section text-center ftco-animate">
-					<h2>Galeria de nossos pets</h2>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-4 ftco-animate">
-					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(./public/images/gallery-1.jpg);">
-						<a href="./public/images/gallery-1.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-							<span class="fa fa-expand"></span>
-						</a>
-						<div class="desc w-100 px-4">
-							<div class="text w-100 mb-3">
-								<span>Cat</span>
-								<h2><a href="index.php?page=available">Persian Cat</a></h2>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 ftco-animate">
-					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(./public/images/gallery-2.jpg);">
-						<a href="./public/images/gallery-2.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-							<span class="fa fa-expand"></span>
-						</a>
-						<div class="desc w-100 px-4">
-							<div class="text w-100 mb-3">
-								<span>Dog</span>
-								<h2><a href="index.php?page=available">Pomeranian</a></h2>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 ftco-animate">
-					<div class="work mb-4 img d-flex align-items-end" style="background-image: url(./public/images/gallery-3.jpg);">
-						<a href="./public/images/gallery-3.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
-							<span class="fa fa-expand"></span>
-						</a>
-						<div class="desc w-100 px-4">
-							<div class="text w-100 mb-3">
-								<span>Cat</span>
-								<h2><a href="index.php?page=available">Sphynx Cat</a></h2>
-							</div>
-						</div>
-					</div>
-				</div>
-	</section>
-
+	<!-- SESSION BLOG - NOTICIAS - INICIO -->
 	<section class="ftco-section bg-light">
 		<div class="container">
 			<div class="row justify-content-center pb-5 mb-3">
@@ -513,51 +410,91 @@
 				</div>
 			</div>
 			<div class="row d-flex">
-				<div class="col-md-4 d-flex ftco-animate">
+				<div class="col-md-3 d-flex ftco-animate">
 					<div class="blog-entry align-self-stretch">
 						<a href="blog-single.html" class="block-20 rounded" style="background-image: url('./public/images/image_1.jpg');">
 						</a>
-						<div class="text p-4">
-							<div class="meta mb-2">
-								<div><a href="#">April 07, 2020</a></div>
-								<div><a href="#">Admin</a></div>
-								<div><a href="#" class="meta-chat"><span class="fa fa-comment"></span> 3</a></div>
+						<div class="text p-2">
+							<div class="meta mb-0">
+								<div>
+									<p>Outubro 15, 2025</p>
+								</div>
+								<div>
+									<p>Admin</p>
+								</div>
+								<div>
+									<p><span class="fa fa-comment"></span> 3</p>
+								</div>
 							</div>
-							<h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a>
-							</h3>
+							<h4 class="heading"><a href="index.php?page=blog">Em breve novas notícias...</a>
+							</h4>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4 d-flex ftco-animate">
+				<div class="col-md-3 d-flex ftco-animate">
 					<div class="blog-entry align-self-stretch">
 						<a href="blog-single.html" class="block-20 rounded" style="background-image: url('./public/images/image_2.jpg');">
 						</a>
-						<div class="text p-4">
-							<div class="meta mb-2">
-								<div><a href="#">April 07, 2020</a></div>
-								<div><a href="#">Admin</a></div>
-								<div><a href="#" class="meta-chat"><span class="fa fa-comment"></span> 3</a></div>
+						<div class="text p-2">
+							<div class="meta mb-0">
+								<div>
+									<p>Outubro 15, 2025</p>
+								</div>
+								<div>
+									<p>Admin</p>
+								</div>
+								<div>
+									<p><span class="fa fa-comment"></span> 3</p>
+								</div>
 							</div>
-							<h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a>
+							<h3 class="heading"><a href="index.php?page=blog">Em breve novas notícias...</a>
 							</h3>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4 d-flex ftco-animate">
+				<div class="col-md-3 d-flex ftco-animate">
 					<div class="blog-entry align-self-stretch">
 						<a href="blog-single.html" class="block-20 rounded" style="background-image: url('./public/images/image_3.jpg');">
 						</a>
-						<div class="text p-4">
-							<div class="meta mb-2">
-								<div><a href="#">April 07, 2020</a></div>
-								<div><a href="#">Admin</a></div>
-								<div><a href="#" class="meta-chat"><span class="fa fa-comment"></span> 3</a></div>
+						<div class="text p-2">
+							<div class="meta mb-0">
+								<div>
+									<p>Outubro 15, 2025</p>
+								</div>
+								<div>
+									<p>Admin</p>
+								</div>
+								<div>
+									<p><span class="fa fa-comment"></span> 3</p>
+								</div>
 							</div>
-							<h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a>
+							<h3 class="heading"><a href="index.php?page=blog">Em breve novas notícias...</a>
 							</h3>
 						</div>
 					</div>
 				</div>
+				<div class="col-md-3 d-flex ftco-animate">
+					<div class="blog-entry align-self-stretch">
+						<a href="blog-single.html" class="block-20 rounded" style="background-image: url('./public/images/image_3.jpg');">
+						</a>
+						<div class="text p-2">
+							<div class="meta mb-0">
+								<div>
+									<p>Outubro 15, 2025</p>
+								</div>
+								<div>
+									<p>Admin</p>
+								</div>
+								<div>
+									<p><span class="fa fa-comment"></span> 3</p>
+								</div>
+							</div>
+							<h3 class="heading"><a href="index.php?page=blog">Em breve novas notícias...</a>
+							</h3>
+						</div>
+					</div>
+				</div>
+				<!-- SESSION BLOG - NOTICIAS - INICIO -->
 			</div>
 		</div>
 	</section>

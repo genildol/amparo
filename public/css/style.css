@@ -11513,7 +11513,7 @@ body {
   font-size: 15px;
   line-height: 1.8;
   font-weight: 400;
-  color: gray;
+  /* color: gray; */
 }
 
 body.menu-show {
@@ -12298,6 +12298,7 @@ h5,
 .services h3,
 .services p:hover {
   color: #2c3e50;
+  /* color: #2c3e50; */
 }
 
 .services:hover,
@@ -12409,7 +12410,8 @@ h5,
 }
 
 .work .text span {
-  color: rgba(255, 255, 255, 0.5);
+  color: #2c3e50;
+  /* color: rgba(255, 255, 255, 0.5); */
 }
 
 .work h2 {
@@ -12422,7 +12424,8 @@ h5,
 }
 
 .work h2 a {
-  color: #fff;
+  color: #2c3e50;
+  /* color: #fff; */
 }
 
 .work .desc {
