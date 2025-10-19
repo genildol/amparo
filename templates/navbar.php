@@ -47,7 +47,7 @@
 	</div>
 	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 		<div class="container">
-			<img src="./public/images/logoAmparo2.png" alt="Logo Amparo" style="width: 50px; height: 50px; margin-right: 10px;">
+			<img src="./public/images/logoamparo2.png" alt="Logo Amparo" style="width: 50px; height: 50px; margin-right: 10px;">
 			<a class="navbar-brand" href="index.php?page=home"><span class="flaticon-pawprint-1 mr-2"></span>Amparo </a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
 				aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">

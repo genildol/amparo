@@ -2,12 +2,12 @@
 	<div class="hero-wrap js-fullheight" style="background-image: url('./public/images/vira-lata.jpg');"
 		data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
-		<div class="container">
+		<div class="container nav-link scrollto">	
 			<div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center"
 				data-scrollax-parent="true">
 				<div class="col-md-11 ftco-animate text-center text-primary">
 					<h1 class="mb-4" style="color: #ecf0f1;">Amparo – Cuidando de quem não pode pedir ajuda </h1>
-					<p><a href="#" class="btn btn-primary mr-md-4 py-3 px-4">Saiba mais <span
+					<p><a href="#about" class="btn btn-primary mr-md-4 py-3 px-2">Saiba mais <span
 								class="ion-ios-arrow-forward"></span></a></p>
 				</div>
 			</div>
@@ -56,7 +56,7 @@
 		</div>
 	</section>
 	<!-- SOBRE A AMPARO - INFORMAÇÕES -->
-	<section class="ftco-section bg-light ftco-no-pt my-3  ftco-intro">
+	<section class="ftco-section bg-light ftco-no-pt my-3  ftco-intro" id="about">
 		<div class="container-fluid px-md-5">
 			<div class="row justify-content-center pb-5 mb-3">
 				<div class="col-md-8 heading-section text-left ftco-animate">
