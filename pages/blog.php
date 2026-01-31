@@ -21,6 +21,21 @@
     <div class="row d-flex">
       <div class="col-md-4 d-flex ftco-animate">
         <div class="blog-entry align-self-stretch">
+          <a href="blog-single.html" class="block-20 rounded" style="background-image: url('./public/images/cao-orelha.webp');">
+          </a>
+          <div class="text p-4">
+            <div class="meta mb-2">
+              <div><a href="#">30 de janeiro de 2026</a></div>
+              <div><a href="#">Admin</a></div>
+              <div><a href="#" class="meta-chat"><span class="fa fa-comment"></span> 3</a></div>
+            </div>
+            <h3 class="heading"><a href="index.php?page=posts/cao-orelha">A morte do cachorro comunitário Orelha em Florianópolis</a></h3>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4 d-flex ftco-animate">
+        <div class="blog-entry align-self-stretch">
           <a href="blog-single.html" class="block-20 rounded" style="background-image: url('./public/images/naoabandone.jpg');">
           </a>
           <div class="text p-4">
@@ -62,20 +77,7 @@
         </div>
       </div>
 
-      <div class="col-md-4 d-flex ftco-animate">
-        <div class="blog-entry align-self-stretch">
-          <a href="blog-single.html" class="block-20 rounded" style="background-image: url('./public/images/image_4.jpg');">
-          </a>
-          <div class="text p-4">
-            <div class="meta mb-2">
-              <div><a href="#">April 07, 2020</a></div>
-              <div><a href="#">Admin</a></div>
-              <div><a href="#" class="meta-chat"><span class="fa fa-comment"></span> 3</a></div>
-            </div>
-            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
-          </div>
-        </div>
-      </div>
+
       <div class="col-md-4 d-flex ftco-animate">
         <div class="blog-entry align-self-stretch">
           <a href="blog-single.html" class="block-20 rounded" style="background-image: url('./public/images/image_5.jpg');">

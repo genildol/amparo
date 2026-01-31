@@ -11,12 +11,15 @@
   <div class="container mt-5 text-center">
     <h1>404 - Erro de carregamento: Página não encontrada</h1>
     <h3>A página que você está procurando não existe.</h3>
-    <h4><a href="index.php">Voltar para a home</a></h4>
     <div class="row">
       <div class="col-md-12">
+        <!-- <h4><a href="index.php">Voltar para a Página Inicial</a></h4> -->
+        <button class="btn btn-primary" onclick="window.location.href='index.php'">Voltar para o Início</button>
+      </div>
+    </div>
+        <img src="./public/images/cao404.png" alt="" class="img-fluid" width="800px" height="500px" />
         <h1>404 - Erro: Página não encontrada</h1>
-        <hgroup>A página que você está procurando não existe.</hgroup>
-        <p><a href="index.php">Voltar para a home</a></p>
+        <h3>A página que você está procurando não existe.</h3>
       </div>
     </div>
 

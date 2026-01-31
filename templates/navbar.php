@@ -34,12 +34,7 @@
 				</div>
 				<div class="col-md-6 d-flex justify-content-md-end">
 					<div class="social-media">
-						<p class="mb-0 d-flex">
-							<!-- <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i
-										class="sr-only">Facebook</i></span></aphp> -->
-							<!-- <a href="https://www.instagram.com/amparouricuri/?hl=pt-br" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i
-										class="sr-only">Instagram</i></span></a> -->
-						</p>
+						<p class="mb-0 d-flex"></p>
 					</div>
 				</div>
 			</div>

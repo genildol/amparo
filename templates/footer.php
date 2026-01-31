@@ -33,38 +33,35 @@
           <p>Acompanhe nossas redes sociais</p>
           <ul class="ftco-footer-social p-0">
 
-            <li class="ftco-animate"><a href="https://api.whatsapp.com/send?phone=5587999255002" data-toggle="tooltip" data-placement="top" title="whatsapp"><span
+            <li class="ftco-animate"><a href="https://api.whatsapp.com/send?phone=558799820405" target="_blank" data-toggle="tooltip" data-placement="top" title="whatsapp"><span
                   class="fa fa-whatsapp"></span></a></li>
 
-            <li class="ftco-animate"><a href="https://www.instagram.com/amparouricuri/?hl=pt-br" data-toggle="tooltip" data-placement="top" title="Instagram"><span
+            <li class="ftco-animate"><a href="https://www.instagram.com/amparouricuri/?hl=pt-br" target="_blank" data-toggle="tooltip" data-placement="top" title="Instagram"><span
                   class="fa fa-instagram"></span></a></li>
           </ul>
         </div>
-        <div class="col-md-6 col-lg-3 mb-4 mb-md-0">
+        <div class="col-md-6 col-lg-3 mb-4">
           <h2 class="footer-heading">Sobre a Amparo</h2>
-          <h6>Missão Um pequeno resumo da missão da ONG:</h6>
-          <p>“A Amparo resgata, cuida e busca lares amorosos para animais abandonados. Trabalhamos com dedicação, amor e transparência.”</p>
+          <p>Missão Um pequeno resumo da missão da ONG:</>
+          <p>A Amparo resgata, cuida e busca lares amorosos para animais abandonados. Trabalhamos com dedicação, amor e transparência.</p>
         </div>
-        <div class="col-md-6 col-lg-3 mb-4 mb-md-0">
+        <div class="col-md-6 col-lg-3 mb-4 md-0">
           <h2 class="footer-heading">Links Úteis</h2>
-          <ul class="list-unstyled">
-            <li><a href="index.php?page=adoption" class="py-2 d-block">Página de Adoção</a></li>
-            <li><a href="index.php?page=posts/volunteers" class="py-2 d-block">Página de Voluntariado</a></li>
-            <li><a href="index.php?page=questions" class="py-2 d-block">Perguntas Frequentes</a></li>
-            <li><a href="index.php?page=donation" class="py-2 d-block">Página de Doações</a></li>
+          <ul class="block-23 mb-3">
+            <li><a href="index.php?page=adoption">Página de Adoção</a></li>
+            <li><a href="index.php?page=posts/volunteers">Página de Voluntariado</a></li>
+            <li><a href="index.php?page=questions">Perguntas Frequentes</a></li>
+            <li><a href="index.php?page=donation">Página de Doações</a></li>
           </ul>
         </div>
-        <div class="col-md-6 col-lg-3 mb-4 mb-md-0">
-          <h2 class="footer-heading">Urgência</h2>
-          <div class="block-23 mb-3">
+        <div class="col-md-6 col-lg-3 mb-4 md-0">
+          <h2 class="footer-heading">Páginas</h2>
             <ul>
-              <li><span class="icon fa fa-map"></span><span class="text">203 Fake St. Mountain View, San Francisco,
-                  California, USA</span></li>
-              <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-              <li><a href="#"><span class="icon fa fa-paper-plane"></span><span
-                    class="text">info@yourdomain.com</span></a></li>
+              <li><a href=" index.php?page=about">Sobre a Amparo</a></li>
+              <li><a href="index.php?page=blog">Nosso Blog</a></li>
+              <li><a href="index.php?page=available">Pets Disponíveis</a></li>
+              <li><a href="index.php?page=adoption">Adote</a></li>
             </ul>
-          </div>
         </div>
       </div>
       <div class="row mt-5">
