@@ -37,8 +37,8 @@
 						<p class="mb-0 d-flex">
 							<!-- <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i
 										class="sr-only">Facebook</i></span></aphp> -->
-							<a href="https://www.instagram.com/amparouricuri/?hl=pt-br" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i
-										class="sr-only">Instagram</i></span></a>
+							<!-- <a href="https://www.instagram.com/amparouricuri/?hl=pt-br" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i
+										class="sr-only">Instagram</i></span></a> -->
 						</p>
 					</div>
 				</div>
@@ -47,7 +47,7 @@
 	</div>
 	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 		<div class="container">
-			<img src="./public/images/logoamparo2.png" alt="Logo Amparo" style="width: 50px; height: 50px; margin-right: 10px;">
+			<img src="./public/images/logoamparo2.png" alt="Logo Amparo" class="rounded-circle" style="width: 80px; height: 80px; margin-right: 10px;">
 			<a class="navbar-brand" href="index.php?page=home"><span class="flaticon-pawprint-1 mr-2"></span>Amparo </a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
 				aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
