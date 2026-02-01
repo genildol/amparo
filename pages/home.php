@@ -1,5 +1,5 @@
 	<!-- END nav -->
-	<div class="hero-wrap js-fullheight" style="background-image: url('./public/images/vira-lata2.jpg');"
+	<div class="hero-wrap js-fullheight" style="background-image: url('./public/images/vira-lata.jpg');"
 		data-stellar-background-ratio="0.5">
 		<div class="container nav-link scrollto">
 			<div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center"
