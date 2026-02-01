@@ -1,8 +1,7 @@
 	<!-- END nav -->
-	<div class="hero-wrap js-fullheight" style="background-image: url('./public/images/vira-lata.jpg');"
+	<div class="hero-wrap js-fullheight" style="background-image: url('./public/images/vira-lata2.jpg');"
 		data-stellar-background-ratio="0.5">
-		<div class="overlay"></div>
-		<div class="container nav-link scrollto">	
+		<div class="container nav-link scrollto">
 			<div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center"
 				data-scrollax-parent="true">
 				<div class="col-md-11 ftco-animate text-center text-primary">
@@ -201,7 +200,7 @@
 				<div class="col-lg-6 order-md-last">
 					<div
 						class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-center mb-4 mb-sm-0"
-						style="background-image:url(./public/images/adopt1.jpg);">
+						style="background-image:url(./public/images/rex.jpg);">
 						<!-- <a href="https://vimeo.com/45830194"
 							class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
 							<span class="fa fa-play"></span> -->

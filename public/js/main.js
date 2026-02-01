@@ -12,6 +12,18 @@
     scrollProperty: 'scroll'
   });
 
+// Função para copiar texto para a área de transferência - QR Code PIX
+function copiarTexto(id) {
+    const texto = document.getElementById(id).innerText;
+
+    navigator.clipboard.writeText(texto)
+        .then(() => {
+            alert('Copiado com sucesso!');
+        })
+        .catch(err => {
+            alert('Erro ao copiar');
+        });
+}
 
 	var fullHeight = function() {
 
